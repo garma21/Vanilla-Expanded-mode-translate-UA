@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_GasSunLamp.label>газова сонячна лампа</VHGE_GasSunLamp.label>
+  <VHGE_GasSunLamp.description>Промислова лампа, яка освітлює територію досить яскраво, щоб вирощувати сільськогосподарські культури, але споживає середню кількість газу геліксен. Автоматично вимикається на ніч.</VHGE_GasSunLamp.description>
+  <VHGE_GasSunLamp.comps.3.offMessage>Вимкнути на період спокою рослин</VHGE_GasSunLamp.comps.3.offMessage>
+
+  <VHGE_GasLamp.label>газова лампа</VHGE_GasLamp.label>
+  <VHGE_GasLamp.description>Стоячий газовий світильник, який освітлює територію. Людям потрібне світло, щоб рухатися та працювати на повну швидкість. Необхідно підключити до газової мережі Helixien. Можна безпечно розмістити на відкритому повітрі.</VHGE_GasLamp.description>
+
+  <VHGE_GasWallLamp.label>настінний газовий світильник</VHGE_GasWallLamp.label>
+  <VHGE_GasWallLamp.description>Настінний газовий світильник, який освітлює територію. Людям потрібне світло, щоб рухатися та працювати на повну швидкість. Необхідно підключити до газової мережі Helixien. Можна безпечно розмістити на відкритому повітрі.</VHGE_GasWallLamp.description>
+
+  <VHGE_GasFloodlight.label>газовий прожектор</VHGE_GasFloodlight.label>
+  <VHGE_GasFloodlight.description>Високий газовий прожектор, який освітлює величезну площу. Людям потрібне світло, щоб рухатися та працювати на повну швидкість. Він не світить достатньо яскраво, щоб вирощувати врожай. Необхідно підключити до газової мережі Helixien. Можна безпечно розмістити на відкритому повітрі.</VHGE_GasFloodlight.description>
+
+
+</LanguageData>

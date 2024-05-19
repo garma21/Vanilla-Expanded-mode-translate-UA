@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VHGE_Name>Vanilla Helixien Gas Expanded</VHGE_Name>
+
+  <VHGE_InfiniteDepositSettings>&lt;b&gt;Налаштування нескінченних депозитів&lt;/b&gt;</VHGE_InfiniteDepositSettings>
+  <VHGE_ScanningSettings>&lt;b&gt;Налаштування Helixien&lt;/b&gt;</VHGE_ScanningSettings>
+  <VHGE_GeysersSettings>&lt;b&gt;Налаштування газових гейзерів Helixien&lt;/b&gt;</VHGE_GeysersSettings>
+  <VHGE_EnableDeposits>Увімкніть відтворення нескінченних родовищ газу:</VHGE_EnableDeposits>
+  <VHGE_DepositsAmount>Сума депозитів:</VHGE_DepositsAmount>
+  <VHGE_DepositsCellCount>Клітини депозитів рахуються:</VHGE_DepositsCellCount>
+  <VHGE_HelixienDeepCommonality>Глибока спільність геліксину (0, щоб вимкнути):</VHGE_HelixienDeepCommonality>
+  <VHGE_HelixienDeepCount>Глибокий підрахунок геліксину на клітину:</VHGE_HelixienDeepCount>
+  <VHGE_EnableGeysers>Увімкнути геліксеновий газовий гейзер (гейзери):</VHGE_EnableGeysers>
+  <VHGE_GeysersCount>Кількість газових гейзерів геліксену:</VHGE_GeysersCount>
+
+</LanguageData>

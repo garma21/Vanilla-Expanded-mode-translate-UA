@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_ConstructRearmTrap.label>переозброїти пастки</VFES_ConstructRearmTrap.label>
+  <VFES_ConstructRearmTrap.verb>переозброїти</VFES_ConstructRearmTrap.verb>
+  <VFES_ConstructRearmTrap.gerund>переозброяння</VFES_ConstructRearmTrap.gerund>
+
+  <VFES_RearmTrap.label>переозброїти пастки</VFES_RearmTrap.label>
+  <VFES_RearmTrap.verb>переозброїти</VFES_RearmTrap.verb>
+  <VFES_RearmTrap.gerund>переозброяння</VFES_RearmTrap.gerund>
+
+
+</LanguageData>

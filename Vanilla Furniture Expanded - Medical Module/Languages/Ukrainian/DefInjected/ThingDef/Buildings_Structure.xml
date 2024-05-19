@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFEM_Wall_Sterile.label>стерильна стіна</VFEM_Wall_Sterile.label>
+  <VFEM_Wall_Sterile.description>Непрохідна стіна. Здатна утримувати дах. Оснащена спеціальними властивостями, що підвищують чистоту, для створення стерильного середовища.</VFEM_Wall_Sterile.description>
+  <VFEM_Wall_Sterile_Blueprint.label>стерильна стінка (креслення)</VFEM_Wall_Sterile_Blueprint.label>
+  <VFEM_Wall_Sterile_Frame.label>стерильна стіна (будівля)</VFEM_Wall_Sterile_Frame.label>
+  <VFEM_Wall_Sterile_Frame.description>Непрохідна стіна. Здатна утримувати дах. Оснащена спеціальними властивостями, що підвищують чистоту, для створення стерильного середовища.</VFEM_Wall_Sterile_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Splinter -->
+
+  <VFES_SplinterArrow.label>осколок</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} був насмерть пронизаний гігантською стрілою.</VFES_SplinterArrow.deathMessage>
+
+
+  <!-- Rock -->
+
+  <VFES_Rock.label>камінь</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} насмерть роздавлений гігантським каменем.</VFES_Rock.deathMessage>
+
+
+  <!-- Flame -->
+
+  <VFES_HauntingFlame.label>полум'я</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} згорів до смерті.</VFES_HauntingFlame.deathMessage>
+
+
+  <!-- None -->
+
+  <VFES_NoDMG.deathMessage>{0} було вбито.</VFES_NoDMG.deathMessage>
+
+
+</LanguageData>

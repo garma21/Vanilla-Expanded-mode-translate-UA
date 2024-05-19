@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_GasOperatedPodLauncher.label>газова пускова установка</VHGE_GasOperatedPodLauncher.label>
+  <VHGE_GasOperatedPodLauncher.description>Паливний порт для запуску однієї транспортної капсули. Пускові установки можуть запускатися групою, але пускові установки повинні бути розташовані поруч одна з одною. Потрібне підключення до газової системи Helixien.</VHGE_GasOperatedPodLauncher.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_GasCooler.label>газовий охолоджувач</VHGE_GasCooler.label>
+  <VHGE_GasCooler.description>Машина повітряного охолодження, яка випускає охолоджене повітря навколо себе. Можна використовувати для створення морозильної камери. Не можна регулювати і автоматично знизить температуру трохи нижче нуля.</VHGE_GasCooler.description>
+
+  <VHGE_GasHeater.label>газовий обігрівач</VHGE_GasHeater.label>
+  <VHGE_GasHeater.description>Пристрій, який перетворює газ helixien у випромінюване тепло. Він може автоматично вмикатися або вимикатися для досягнення певної цільової температури.</VHGE_GasHeater.description>
+
+
+</LanguageData>

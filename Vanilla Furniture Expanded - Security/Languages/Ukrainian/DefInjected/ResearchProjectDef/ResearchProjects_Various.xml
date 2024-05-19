@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <VFES_SiegeEquipment.label>облогове обладнання</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Створіть середньовічне облогове обладнання.</VFES_SiegeEquipment.description>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.0>subject-&gt;майстри облоги</VFES_SiegeEquipment.generalRules.rulesStrings.0>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.1>subject_story-&gt;відродив стародавні методи прориву найпотужнішої оборони</VFES_SiegeEquipment.generalRules.rulesStrings.1>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.2>subject_story-&gt;створені машини війни, які гримлять полями, вселяючи страх у ворогів</VFES_SiegeEquipment.generalRules.rulesStrings.2>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.3>subject_story-&gt;виготовлені требюшети та тарани з міцного дерева та заліза</VFES_SiegeEquipment.generalRules.rulesStrings.3>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.4>subject_story-&gt;керували облогами, які стали легендарними, їхню тактику вивчали віками</VFES_SiegeEquipment.generalRules.rulesStrings.4>
+  <VFES_SiegeEquipment.generalRules.rulesStrings.5>subject_gerund-&gt;облога майбутнього, заново відкриваючи минуле</VFES_SiegeEquipment.generalRules.rulesStrings.5>
+
+  <VWE_TrenchWarfare.label>окопна війна</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Адаптуйте доктрину окопної війни з вибором зброї для ближнього бою.</VWE_TrenchWarfare.description>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.0>subject-&gt;oкопатися</VWE_TrenchWarfare.generalRules.rulesStrings.0>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.1>subject_story-&gt;взяв на озброєння похмуру тактику закріплених боїв, перетворюючи ландшафти на лабіринти бруду та смерті</VWE_TrenchWarfare.generalRules.rulesStrings.1>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.2>subject_story-&gt;інновація з інструментами та технікою швидкого зміцнення траншей</VWE_TrenchWarfare.generalRules.rulesStrings.2>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.3>subject_story-&gt;врівноважував жах нічийної землі з безпекою добре підготовленої оборони</VWE_TrenchWarfare.generalRules.rulesStrings.3>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.4>subject_story-&gt;трансформована війна із запровадженням ближнього бою в обіймах землі</VWE_TrenchWarfare.generalRules.rulesStrings.4>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.5>subject_gerund-&gt;обійняти землю для захисту та стратегії</VWE_TrenchWarfare.generalRules.rulesStrings.5>
+
+  <VFES_Artillery.label>артилерія</VFES_Artillery.label>
+  <VFES_Artillery.description>Дізнайтеся, як створити польову артилерію, здатну бомбардувати віддалені цілі в межах певного регіону світу.</VFES_Artillery.description>
+  <VFES_Artillery.generalRules.rulesStrings.0>subject-&gt;королі поля бою</VFES_Artillery.generalRules.rulesStrings.0>
+  <VFES_Artillery.generalRules.rulesStrings.1>subject_story-&gt;опанував мистецтво дальнього бомбардування, формуючи хід боїв здалеку</VFES_Artillery.generalRules.rulesStrings.1>
+  <VFES_Artillery.generalRules.rulesStrings.2>subject_story-&gt;створені гармати та гаубиці, які ревуть, з точністю завдаючи шкоди ворожим формуванням</VFES_Artillery.generalRules.rulesStrings.2>
+  <VFES_Artillery.generalRules.rulesStrings.3>subject_story-&gt;інноваційні мобільні артилерійські одиниці, які приносять вогневу міць туди, де це найбільше потрібно</VFES_Artillery.generalRules.rulesStrings.3>
+  <VFES_Artillery.generalRules.rulesStrings.4>subject_story-&gt;започаткував методи прогнозування цілей, передбачивши еволюцію війни</VFES_Artillery.generalRules.rulesStrings.4>
+  <VFES_Artillery.generalRules.rulesStrings.5>subject_gerund-&gt;домінуючи на полі з чудовою вогневою міццю</VFES_Artillery.generalRules.rulesStrings.5>
+
+  <VFES_SentryGuns.label>сторожові гармати</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Створюйте надійні сторожові гармати з автономним живленням для використання в полі.</VFES_SentryGuns.description>
+  <VFES_SentryGuns.generalRules.rulesStrings.0>subject-&gt;автоматизовані опікуни</VFES_SentryGuns.generalRules.rulesStrings.0>
+  <VFES_SentryGuns.generalRules.rulesStrings.1>subject_story-&gt;започаткувала нову еру оборони з розгортанням самокерованих сторожових гармат</VFES_SentryGuns.generalRules.rulesStrings.1>
+  <VFES_SentryGuns.generalRules.rulesStrings.2>subject_story-&gt;поєднав штучний інтелект зі смертоносною ефективністю, встановивши новий стандарт безпеки периметра</VFES_SentryGuns.generalRules.rulesStrings.2>
+  <VFES_SentryGuns.generalRules.rulesStrings.3>subject_story-&gt;розроблені системи, які залишаються постійно пильними, забезпечуючи непохитний захист від загроз</VFES_SentryGuns.generalRules.rulesStrings.3>
+  <VFES_SentryGuns.generalRules.rulesStrings.4>subject_story-&gt;інтегровані передові системи націлювання для мінімізації супутнього збитку</VFES_SentryGuns.generalRules.rulesStrings.4>
+  <VFES_SentryGuns.generalRules.rulesStrings.5>subject_gerund-&gt;немигаючими очима стежить за мовчазними полями</VFES_SentryGuns.generalRules.rulesStrings.5>
+
+  <VFES_ConcealedDefenses.label>прихована оборона</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Створюйте підводні бар'єри та вежі, які ідеально підходять для захисту всередині приміщень.</VFES_ConcealedDefenses.description>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.0>subject-&gt;прихована сила</VFES_ConcealedDefenses.generalRules.rulesStrings.0>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.1>subject_story-&gt;опанував мистецтво приховування, змушуючи укріплення зникати на очах у ворога</VFES_ConcealedDefenses.generalRules.rulesStrings.1>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.2>subject_story-&gt;інновація з підводними баштами та пастками, які виявляють силу в момент несподіванки</VFES_ConcealedDefenses.generalRules.rulesStrings.2>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.3>subject_story-&gt;розроблені засоби захисту, які ідеально поєднуються з навколишнім середовищем, вражаючи невидимими</VFES_ConcealedDefenses.generalRules.rulesStrings.3>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.4>subject_story-&gt;створив мережу прихованого озброєння, що забезпечує безпеку через невидимість</VFES_ConcealedDefenses.generalRules.rulesStrings.4>
+  <VFES_ConcealedDefenses.generalRules.rulesStrings.5>subject_gerund-&gt;маскувальна здатність на виду</VFES_ConcealedDefenses.generalRules.rulesStrings.5>
+
+
+  <!-- Spacer -->
+
+  <VFES_PulseChargedDefenses.label>заряджені пульсом оборони</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Розробляйте передові зарядні гармати, здатні підтримувати постійну швидкість стрільби.</VFES_PulseChargedDefenses.description>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.0>subject-&gt;заряджене панування</VFES_PulseChargedDefenses.generalRules.rulesStrings.0>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.1>subject_story-&gt;використовували сиру енергію імпульсної технології для зміцнення захисту</VFES_PulseChargedDefenses.generalRules.rulesStrings.1>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.2>subject_story-&gt;розробив зарядні гармати, які ведуть невпинні наступи на загарбників</VFES_PulseChargedDefenses.generalRules.rulesStrings.2>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.3>subject_story-&gt;інтегрував імпульсні технології в оборонні стратегії, започаткувавши нову еру війни</VFES_PulseChargedDefenses.generalRules.rulesStrings.3>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.4>subject_story-&gt;врівноважував припливи та відпливи бою стійкою, непохитною вогневою міццю</VFES_PulseChargedDefenses.generalRules.rulesStrings.4>
+  <VFES_PulseChargedDefenses.generalRules.rulesStrings.5>subject_gerund-&gt;підживлення майбутнього оборони потужністю імпульсного заряду</VFES_PulseChargedDefenses.generalRules.rulesStrings.5>
+
+  <VFES_Railgun.label>рельсотрон</VFES_Railgun.label>
+  <VFES_Railgun.description>Адаптуйте озброєння космічного корабля як частину ваших оборонних систем.</VFES_Railgun.description>
+  <VFES_Railgun.generalRules.rulesStrings.0>subject-&gt;точність розв'язана</VFES_Railgun.generalRules.rulesStrings.0>
+  <VFES_Railgun.generalRules.rulesStrings.1>subject_story-&gt;адаптували нищівну силу озброєння космічних кораблів для наземної війни</VFES_Railgun.generalRules.rulesStrings.1>
+  <VFES_Railgun.generalRules.rulesStrings.2>subject_story-&gt;розроблені рельсотрони для забезпечення неперевершеної швидкості та руйнування</VFES_Railgun.generalRules.rulesStrings.2>
+  <VFES_Railgun.generalRules.rulesStrings.3>subject_story-&gt;переосмислив мистецтво облоги за допомогою технології, відірваної від зірок</VFES_Railgun.generalRules.rulesStrings.3>
+  <VFES_Railgun.generalRules.rulesStrings.4>subject_story-&gt;відкрив нову епоху, де битву титанів вирішує тихий шепіт магнітного прискорення</VFES_Railgun.generalRules.rulesStrings.4>
+  <VFES_Railgun.generalRules.rulesStrings.5>subject_gerund-&gt;з'єднуючи світи громом рейкових гармат</VFES_Railgun.generalRules.rulesStrings.5>
+
+  <VFES_EMPCannon.label>Гармата EMP</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Розробляйте гармати EMP, корисні по всій галактиці завдяки своїй здатності приголомшувати механоїдів.</VFES_EMPCannon.description>
+  <VFES_EMPCannon.generalRules.rulesStrings.0>subject-&gt;тихий шторм</VFES_EMPCannon.generalRules.rulesStrings.0>
+  <VFES_EMPCannon.generalRules.rulesStrings.1>subject_story-&gt;створена зброя, яка говорить мовою блискавки, заглушаючи механічних гігантів війни</VFES_EMPCannon.generalRules.rulesStrings.1>
+  <VFES_EMPCannon.generalRules.rulesStrings.2>subject_story-&gt;поєднав силу електромагнітних імпульсів зі стратегічним захистом</VFES_EMPCannon.generalRules.rulesStrings.2>
+  <VFES_EMPCannon.generalRules.rulesStrings.3>subject_story-&gt;мовчки торував шлях до перемоги, приголомшуючи супротивників невидимою силою</VFES_EMPCannon.generalRules.rulesStrings.3>
+  <VFES_EMPCannon.generalRules.rulesStrings.4>subject_story-&gt;опанував танець електронів, щоб захистити та паралізувати</VFES_EMPCannon.generalRules.rulesStrings.4>
+  <VFES_EMPCannon.generalRules.rulesStrings.5>subject_gerund-&gt;командуючи полем бою шепотом течій</VFES_EMPCannon.generalRules.rulesStrings.5>
+
+  <VFES_RepulsorTechnology.label>репульсорна технологія</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Створюйте генератори щитів, які створюють енергетичні поля, здатні відбивати снаряди.</VFES_RepulsorTechnology.description>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.0>subject-&gt;силові поля ковані</VFES_RepulsorTechnology.generalRules.rulesStrings.0>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.1>subject_story-&gt;розкрив секрети технології репульсорів, створюючи захисні куполи по всій землі</VFES_RepulsorTechnology.generalRules.rulesStrings.1>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.2>subject_story-&gt;побудовані бастіони безпеки, де енергетичні щити відбивають лють війни</VFES_RepulsorTechnology.generalRules.rulesStrings.2>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.3>subject_story-&gt;поєднав давні мрії про непереможність з відчутним дотиком науки</VFES_RepulsorTechnology.generalRules.rulesStrings.3>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.4>subject_story-&gt;забезпечив спокій серед шторму, під пильним поглядом мерехтливих бар'єрів</VFES_RepulsorTechnology.generalRules.rulesStrings.4>
+  <VFES_RepulsorTechnology.generalRules.rulesStrings.5>subject_gerund-&gt;переплетення тканини захисту нитками чистої енергії</VFES_RepulsorTechnology.generalRules.rulesStrings.5>
+
+
+</LanguageData>

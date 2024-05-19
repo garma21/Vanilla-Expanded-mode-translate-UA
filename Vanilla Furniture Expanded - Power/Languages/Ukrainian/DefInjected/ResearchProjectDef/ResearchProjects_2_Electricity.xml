@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_IndustrialGenerators.label>промислові генератори</VFE_IndustrialGenerators.label>
+  <VFE_IndustrialGenerators.description>Створюйте промислові генератори, здатні зберігати значно більше палива та виробляти більшу потужність.</VFE_IndustrialGenerators.description>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.0>subject-&gt;ера індустріальної могутності</VFE_IndustrialGenerators.generalRules.rulesStrings.0>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.1>subject_story-&gt;започаткувала надійні рішення для задоволення зростаючих енергетичних потреб галузей, що розвиваються</VFE_IndustrialGenerators.generalRules.rulesStrings.1>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.2>subject_story-&gt;розробив генератори з неперевершеною паливною ефективністю та продуктивністю, які живлять машини прогресу</VFE_IndustrialGenerators.generalRules.rulesStrings.2>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.3>subject_story-&gt;подолали обмеження попередніх джерел енергії, заклавши основу для епохи розширення та винаходів</VFE_IndustrialGenerators.generalRules.rulesStrings.3>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.4>subject_story-&gt;розроблена довговічність і надійність у кожній одиниці, гарантуючи, що колеса промисловості ніколи не сповільнюються</VFE_IndustrialGenerators.generalRules.rulesStrings.4>
+  <VFE_IndustrialGenerators.generalRules.rulesStrings.5>subject_gerund-&gt;підживлення промислової революції за допомогою вдосконаленого виробництва електроенергії</VFE_IndustrialGenerators.generalRules.rulesStrings.5>
+
+  <VFE_AdvancedBatteries.label>вдосконалений акумулятор</VFE_AdvancedBatteries.label>
+  <VFE_AdvancedBatteries.description>Створіть батареї Spacertech, здатні ефективно накопичувати велику кількість енергії.</VFE_AdvancedBatteries.description>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.0>subject-&gt;конденсатори завтрашнього дня</VFE_AdvancedBatteries.generalRules.rulesStrings.0>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.1>subject_story-&gt;заклали новий шлях у накопиченні енергії з акумуляторами, які обіцяють завтрашній день</VFE_AdvancedBatteries.generalRules.rulesStrings.1>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.2>subject_story-&gt;створив компактні, але потужні рішення для зберігання, використовуючи spacertech для підвищення ефективності</VFE_AdvancedBatteries.generalRules.rulesStrings.2>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.3>subject_story-&gt;новаторські системи, які захищають від коливань потужності, зберігаючи енергію в критичні моменти</VFE_AdvancedBatteries.generalRules.rulesStrings.3>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.4>subject_story-&gt;змінили спосіб зберігання та управління цивілізаціями своєю енергією, зробивши дефіцит енергії оповіданням минулого</VFE_AdvancedBatteries.generalRules.rulesStrings.4>
+  <VFE_AdvancedBatteries.generalRules.rulesStrings.5>subject_gerund-&gt;збереження імпульсу прогресу в вдосконалених батареях</VFE_AdvancedBatteries.generalRules.rulesStrings.5>
+
+  <VFE_AdvancedPowerSources.label>передові джерела живлення</VFE_AdvancedPowerSources.label>
+  <VFE_AdvancedPowerSources.description>Створюйте екологічно чисті генератори електроенергії Spacertech, включаючи передові сонячні батареї та вітрові турбіни.</VFE_AdvancedPowerSources.description>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.0>subject-&gt;збирання елементів</VFE_AdvancedPowerSources.generalRules.rulesStrings.0>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.1>subject_story-&gt;використовували силу сонця та вітру з безпрецедентною ефективністю за допомогою вдосконалених сонячних панелей і турбін</VFE_AdvancedPowerSources.generalRules.rulesStrings.1>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.2>subject_story-&gt;підняв технології зеленої енергії на нову висоту, поєднуючи стійкість із високою продуктивністю</VFE_AdvancedPowerSources.generalRules.rulesStrings.2>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.3>subject_story-&gt;розпочав зелену революцію у виробництві енергії, зменшивши залежність від обмежених ресурсів</VFE_AdvancedPowerSources.generalRules.rulesStrings.3>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.4>subject_story-&gt;інтегровані розумні технології для оптимізації захоплення та використання енергії навіть у найскладніших умовах</VFE_AdvancedPowerSources.generalRules.rulesStrings.4>
+  <VFE_AdvancedPowerSources.generalRules.rulesStrings.5>subject_gerund-&gt;ведуть рух до сталого майбутнього за допомогою зеленої енергії</VFE_AdvancedPowerSources.generalRules.rulesStrings.5>
+
+  <VFE_NuclearPower.label>атомна енергетика</VFE_NuclearPower.label>
+  <VFE_NuclearPower.description>Основний метод виробництва електроенергії, ядерна енергія настільки ж достатня, наскільки й смертельна.</VFE_NuclearPower.description>
+  <VFE_NuclearPower.generalRules.rulesStrings.0>subject-&gt;атомний кордон</VFE_NuclearPower.generalRules.rulesStrings.0>
+  <VFE_NuclearPower.generalRules.rulesStrings.1>subject_story-&gt;розблокував серце атома, випустивши потік енергії, достатній для освітлення міст і приводу двигунів промисловості</VFE_NuclearPower.generalRules.rulesStrings.1>
+  <VFE_NuclearPower.generalRules.rulesStrings.2>subject_story-&gt;збалансував величезний потенціал суворими протоколами безпеки, гарантуючи, що користь ядерної енергетики не буде затьмарена її ризиками</VFE_NuclearPower.generalRules.rulesStrings.2>
+  <VFE_NuclearPower.generalRules.rulesStrings.3>subject_story-&gt;каталізував зсув у виробництві електроенергії, де тихе дзижчання атома лежить в основі галасливого життя цивілізацій</VFE_NuclearPower.generalRules.rulesStrings.3>
+  <VFE_NuclearPower.generalRules.rulesStrings.4>subject_story-&gt;очолив наукове та інженерне диво, зробивши атомну енергетику наріжним каменем нової ери енергетичної достатності</VFE_NuclearPower.generalRules.rulesStrings.4>
+  <VFE_NuclearPower.generalRules.rulesStrings.5>subject_gerund-&gt;охоплення ядра прогресу з ядерною енергією</VFE_NuclearPower.generalRules.rulesStrings.5>
+
+  <VFE_TidalPower.label>припливна сила</VFE_TidalPower.label>
+  <VFE_TidalPower.description>Створюйте припливні генератори на воді, щоб виробляти великий обсяг сталої зеленої енергії.</VFE_TidalPower.description>
+  <VFE_TidalPower.generalRules.rulesStrings.0>subject-&gt;ритм морів</VFE_TidalPower.generalRules.rulesStrings.0>
+  <VFE_TidalPower.generalRules.rulesStrings.1>subject_story-&gt;бере участь у безперервному русі океанів, перетворюючи припливи на величезне нескінченне джерело енергії</VFE_TidalPower.generalRules.rulesStrings.1>
+  <VFE_TidalPower.generalRules.rulesStrings.2>subject_story-&gt;інновація з підводними турбінами, які танцюють з течією, виробляючи чисту енергію в гармонії з природою</VFE_TidalPower.generalRules.rulesStrings.2>
+  <VFE_TidalPower.generalRules.rulesStrings.3>subject_story-&gt;подолали виклики виробництва морської енергії, захищаючи екосистеми, одночасно використовуючи їх силу</VFE_TidalPower.generalRules.rulesStrings.3>
+  <VFE_TidalPower.generalRules.rulesStrings.4>subject_story-&gt;продемонстрував потенціал найбільшого відновлюваного ресурсу планети, показуючи приклад у прагненні до сталого розвитку</VFE_TidalPower.generalRules.rulesStrings.4>
+  <VFE_TidalPower.generalRules.rulesStrings.5>subject_gerund-&gt;синхронізація серцебиття цивілізації з припливами</VFE_TidalPower.generalRules.rulesStrings.5>
+
+
+</LanguageData>

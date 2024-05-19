@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_OperatingTable.label>операційний стіл</Bed_OperatingTable.label>
+  <Bed_OperatingTable.description>Грубий стіл, захаращений інструментами, які нібито полегшують операцію, хоча чистота столу викликає сумніви. Дещо покращує медичні результати порівняно зі звичайними ліжками.</Bed_OperatingTable.description>
+
+  <Bed_CryptoBed.label>підтяжка для криптосну</Bed_CryptoBed.label>
+  <Bed_CryptoBed.description>Медичний, який використовує частковий криптосон, щоб сповільнити деградацію ран і допомогти організму загоїтися, хоча і з тими ж побічними ефектами, що і криптосон, але з меншим ступенем вираженості.</Bed_CryptoBed.description>
+
+
+</LanguageData>

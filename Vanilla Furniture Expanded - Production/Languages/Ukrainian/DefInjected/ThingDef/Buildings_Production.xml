@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Component Fabrication Bench -->
+
+  <VFE_ComponentFabricationBench.label>монтажний стіл</VFE_ComponentFabricationBench.label>
+  <VFE_ComponentFabricationBench.description>Верстак, оснащений передовими інструментами для виготовлення компонентів.</VFE_ComponentFabricationBench.description>
+
+
+  <!-- Electric Butcher -->
+
+  <VFE_TableButcherElectric.label>електричний м'ясник</VFE_TableButcherElectric.label>
+  <VFE_TableButcherElectric.description>Моторизований стіл із обертовим лезом пилки для швидкого розрізання мертвих створінь на точні шматочки сирого м’яса. Споживає багато енергії.</VFE_TableButcherElectric.description>
+
+
+  <!-- Electric Drug Lab -->
+
+  <VFE_TableDrugLabElectric.label>електрична нарколабораторія</VFE_TableDrugLabElectric.label>
+  <VFE_TableDrugLabElectric.description>Удосконалений робочий стіл, оснащений контейнерами, нагрівачами та вимірювальними пристроями для більш ефективного виробництва різних ліків. Споживає багато енергії.</VFE_TableDrugLabElectric.description>
+
+
+  <!-- Fueled Smelter -->
+
+  <VFE_FueledSmelter.label>плавильний завод на паливі</VFE_FueledSmelter.label>
+  <VFE_FueledSmelter.description>Станція для виплавки дров. Витягує придатний метал із шматків шлаку та інших змішаних металевих предметів.</VFE_FueledSmelter.description>
+
+
+  <!-- Electric Stone Cutter -->
+
+  <VFE_TableStonecutterElectric.label>електричний каменеріз</VFE_TableStonecutterElectric.label>
+  <VFE_TableStonecutterElectric.description>Удосконалений робочий стіл з електричними пилами та тримачами для різання кам’яних шматків на придатні для використання блоки за короткий час на складальній лінії. Споживає багато енергії.</VFE_TableStonecutterElectric.description>
+
+
+</LanguageData>

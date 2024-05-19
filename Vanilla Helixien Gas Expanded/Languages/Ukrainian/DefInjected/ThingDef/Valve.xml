@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_GasPipeValve.label>газовий кран<Вмикає/вимикає потік газу./VHGE_GasPipeValve.label>
+  <VHGE_GasPipeValve.description>Вмикає/вимикає потік газу.</VHGE_GasPipeValve.description>
+  <VHGE_GasPipeValve_Blueprint.label>газовий клапан (проект)</VHGE_GasPipeValve_Blueprint.label>
+  <VHGE_GasPipeValve_Frame.label>газова клапан (буд.)</VHGE_GasPipeValve_Frame.label>
+  <VHGE_GasPipeValve_Frame.description>Вмикає/вимикає потік газу.</VHGE_GasPipeValve_Frame.description>
+
+
+</LanguageData>

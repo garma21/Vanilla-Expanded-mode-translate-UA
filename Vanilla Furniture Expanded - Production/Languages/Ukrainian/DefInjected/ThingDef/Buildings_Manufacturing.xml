@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Large Machining Table -->
+
+  <VFE_TableMachiningLarge.label>великий обробний стіл</VFE_TableMachiningLarge.label>
+  <VFE_TableMachiningLarge.description>Верстак, оснащений передовими інструментами та достатньо місця, щоб створювати технологічні чудеса з простіших матеріалів за короткий час. Споживає електроенергію.</VFE_TableMachiningLarge.description>
+
+
+  <!-- Large Electric Smithy -->
+
+  <VFE_TableSmithyLarge.label>велика електрична кузня</VFE_TableSmithyLarge.label>
+  <VFE_TableSmithyLarge.description>Електричний робочий центр для виготовлення немеханічної зброї та інструментів. Споживає багато енергії.</VFE_TableSmithyLarge.description>
+
+
+  <!-- Large Stove Table -->
+
+  <VFE_TableStoveLarge.label>велика плита</VFE_TableStoveLarge.label>
+  <VFE_TableStoveLarge.description>Виробнича плита великого розміру, а також кілька печей, щоб готувати їжу значно швидше.</VFE_TableStoveLarge.description>
+
+
+  <!-- Large Tailoring Table -->
+
+  <VFE_TableTailorLarge.label>великий пошивний стіл</VFE_TableTailorLarge.label>
+  <VFE_TableTailorLarge.description>Великий виробничий верстак з кількома інструментами для дизайнерів і швейною машиною для швидкого пошиття одягу. Може працювати без електрики на 33% від нормальної швидкості.</VFE_TableTailorLarge.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_HelixienGenerator.label>генератор на газі</VHGE_HelixienGenerator.label>
+  <VHGE_HelixienGenerator.description>Виробляє енергію, споживаючи газ геліксіен. Необхідно підключити до газової мережі.</VHGE_HelixienGenerator.description>
+
+  <VHGE_IndustrialHelixienGenerator.label>промисловий газовий генератор</VHGE_IndustrialHelixienGenerator.label>
+  <VHGE_IndustrialHelixienGenerator.description>Виробляє велику кількість енергії, споживаючи газ геліксен. Необхідно підключити до газової мережі.</VHGE_IndustrialHelixienGenerator.description>
+
+
+</LanguageData>

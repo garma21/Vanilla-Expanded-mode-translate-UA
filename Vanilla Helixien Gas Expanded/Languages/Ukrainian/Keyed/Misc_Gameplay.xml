@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VHGE_CommandToggleGas_Label>Перемкнути потік газу</VHGE_CommandToggleGas_Label>
+  <VHGE_CommandToggleGas_Desc>Визначте потік газу, який потрібно вмикати або вимикати. Незабаром прийде колоніст, щоб натиснути вимикач.</VHGE_CommandToggleGas_Desc>
+  <VHGE_InfiniteDeposit>Знайдено невелике нескінченне газове родовище геліксін!</VHGE_InfiniteDeposit>
+  <VHGE_InfiniteDepositLabel>Геліксенське родовище газу</VHGE_InfiniteDepositLabel>
+  <VHGE_GasOverlayTooltip>Перемикання накладання нескінченної газової кишені</VHGE_GasOverlayTooltip>
+  <VHGE_NeedDeepOrGeyser>Насос для гелікону потрібно розмістити на глибокій кишені гелікону або газовому гейзері.</VHGE_NeedDeepOrGeyser>
+  <VHGE_FillGeyser>Заповніть отвір гейзера</VHGE_FillGeyser>
+  <VHGE_FillGeyserDesc>Дозволяє видалити гейзер з мапи. Не відміняється.</VHGE_FillGeyserDesc>
+
+</LanguageData>

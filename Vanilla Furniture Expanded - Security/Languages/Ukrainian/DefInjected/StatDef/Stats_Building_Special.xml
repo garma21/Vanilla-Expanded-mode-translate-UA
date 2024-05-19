@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_EnergyShieldEnergyMax.label>максимальна енергія щита</VFES_EnergyShieldEnergyMax.label>
+  <VFES_EnergyShieldEnergyMax.description>Максимальна енергія, яку генератор щита може мати одночасно. Більше енергії поглинає більше пошкоджень.</VFES_EnergyShieldEnergyMax.description>
+
+  <VFES_EnergyShieldRechargeRate.label>швидкість перезарядки щита</VFES_EnergyShieldRechargeRate.label>
+  <VFES_EnergyShieldRechargeRate.description>Швидкість, з якою щит отримує енергію, доки він не зламаний.</VFES_EnergyShieldRechargeRate.description>
+  <VFES_EnergyShieldRechargeRate.formatString>{0}/c</VFES_EnergyShieldRechargeRate.formatString>
+
+  <VFES_EnergyShieldRadius.label>радіус щита</VFES_EnergyShieldRadius.label>
+  <VFES_EnergyShieldRadius.description>Область покриття, коли енергетичний щит активний.</VFES_EnergyShieldRadius.description>
+  <VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+
+
+</LanguageData>

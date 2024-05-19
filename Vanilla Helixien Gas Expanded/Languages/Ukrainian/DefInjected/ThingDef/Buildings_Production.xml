@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_GasPoweredCrematorium.label>газовий крематорій</VHGE_GasPoweredCrematorium.label>
+  <VHGE_GasPoweredCrematorium.description>Величезний кам'яний крематорій, який випаровує трупи надзвичайно високою температурою. Працює на газі helixien.</VHGE_GasPoweredCrematorium.description>
+
+  <VHGE_GasPoweredSmelter.label>плавильний завод на газі</VHGE_GasPoweredSmelter.label>
+  <VHGE_GasPoweredSmelter.description>Витягує придатний метал із шматків шлаку та інших змішаних металевих предметів. Працює на газі helixien.</VHGE_GasPoweredSmelter.description>
+
+  <VHGE_GasPoweredStove.label>газова плита</VHGE_GasPoweredStove.label>
+  <VHGE_GasPoweredStove.description>Плита газова з приставною стільницею для приготування їжі.</VHGE_GasPoweredStove.description>
+
+  <VHGE_GasPoweredSmithy.label>газова кузня</VHGE_GasPoweredSmithy.label>
+  <VHGE_GasPoweredSmithy.description>Газова станція для ковальства немеханічної зброї та інструментів.</VHGE_GasPoweredSmithy.description>
+
+  <VHGE_GasPoweredRefinery.label>газопереробний завод</VHGE_GasPoweredRefinery.label>
+  <VHGE_GasPoweredRefinery.description>Переробляє біологічні речовини, такі як деревина або рослинні речовини, на хімічне паливо. Необхідно підключити до газової мережі Helixien.</VHGE_GasPoweredRefinery.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VHGE_HelixienPipe.label>газова труба</VHGE_HelixienPipe.label>
+  <VHGE_HelixienPipe.description>Труба, яка передає газ helixien.</VHGE_HelixienPipe.description>
+  <VHGE_HelixienPipe_Blueprint.label>газова труба (проект)</VHGE_HelixienPipe_Blueprint.label>
+  <VHGE_HelixienPipe_Frame.label>газопровід (будівля)</VHGE_HelixienPipe_Frame.label>
+  <VHGE_HelixienPipe_Frame.description>Труба, яка передає газ helixien.</VHGE_HelixienPipe_Frame.description>
+
+  <VHGE_SubterraneanHelixienPipe.label>hidden gas pipe</VHGE_SubterraneanHelixienPipe.label>
+  <VHGE_SubterraneanHelixienPipe.description>Труба, яка передає газ helixien. Ця труба прихована від очей і захищена від вибухів газу. Будівництво набагато дорожче, ніж звичайні труби.</VHGE_SubterraneanHelixienPipe.description>
+  <VHGE_SubterraneanHelixienPipe_Blueprint.label>прихована газова труба (проект)</VHGE_SubterraneanHelixienPipe_Blueprint.label>
+  <VHGE_SubterraneanHelixienPipe_Frame.label>прихований газопровід (будівля)</VHGE_SubterraneanHelixienPipe_Frame.label>
+  <VHGE_SubterraneanHelixienPipe_Frame.description>Труба, яка передає газ helixien. Ця труба прихована від очей і захищена від вибухів газу. Будівництво набагато дорожче, ніж звичайні труби.</VHGE_SubterraneanHelixienPipe_Frame.description>
+
+
+</LanguageData>

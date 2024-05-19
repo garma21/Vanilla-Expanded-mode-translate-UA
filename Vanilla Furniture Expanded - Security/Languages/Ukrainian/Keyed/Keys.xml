@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Submersible -->
+  <VFESecurity.Submerged>занурений</VFESecurity.Submerged>
+
+  <!-- Long-range artillery -->
+  <VFESecurity.WorldTileRange>World tile range</VFESecurity.WorldTileRange>
+
+  <VFESecurity.TargetWorldTile>Target world tile</VFESecurity.TargetWorldTile>
+  <VFESecurity.TargetWorldTile_Description>Виберіть тайл світу для цього {0}, щоб стріляти.</VFESecurity.TargetWorldTile_Description>
+  <VFESecurity.TargetWorldTile_DescriptionShort>Виберіть тайл світу для вогню.</VFESecurity.TargetWorldTile_DescriptionShort>
+  <VFESecurity.CommandTargetTileFailNoArtillery>Цей {0} не має відповідної артилерії.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+  <VFESecurity.TargetWorldTileOutOfRange>Тайл поза діапазоном.</VFESecurity.TargetWorldTileOutOfRange>
+  <VFESecurity.TargetMap>Карта цілі</VFESecurity.TargetMap>
+  <VFESecurity.TargetPeaceTalks>Цільові мирні переговори</VFESecurity.TargetPeaceTalks>
+  <VFESecurity.TargetSettlement>Цільове поселення</VFESecurity.TargetSettlement>
+  <VFESecurity.TargetOutpost>Цільова застава</VFESecurity.TargetOutpost>
+  <VFESecurity.TargetSite>Цільовий сайт</VFESecurity.TargetSite>
+  <VFESecurity.TargetWorldTileEmpty>Цільова область (не матиме ефекту)</VFESecurity.TargetWorldTileEmpty>
+  <VFESecurity.TargetWorldFlyingObject>Неможливо націлитися на літаючі об'єкти.</VFESecurity.TargetWorldFlyingObject>
+  <VFESecurity.TargetWorldTileSameTile>Неможливо націлити ту саму плитку.</VFESecurity.TargetWorldTileSameTile>
+
+  <VFESecurity.MessageTargetWorldTileInvalid>Цільова область недійсна.</VFESecurity.MessageTargetWorldTileInvalid>
+  <VFESecurity.Settlement>поселення</VFESecurity.Settlement>
+  <VFESecurity.MessageTargetWorldTileOutOfRange>Цільова область поза межами діапазону {0}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+  <!-- Messages -->
+  <VFESecurity.GoodwillChangedReason_ArtilleryStrike>атакували артилерією</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+  <VFESecurity.Message_ArtilleryBombardmentEnded>{0} з {1} припинили бомбардування ваших поселень.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+  <!-- Letters -->
+  <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Спровоковано {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+  <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Відносини між вами та {0} зіпсувалися, завдавши артилерійського удару їхній стороні переговорів щодо мирних переговорів. Вони можуть відправити рейд у відповідь.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+  <VFESecurity.ArtilleryStrikeSettlement_Letter>Артилерійська відплата</VFESecurity.ArtilleryStrikeSettlement_Letter>
+  <VFESecurity.ArtilleryStrikeSettlement_LetterText>Через вашу провокацію артилерійським ударом {0} у {1} ​​вирішили відкрити вогонь у відповідь по вашим поселенням, використовуючи власну артилерію!\n\nЦей обстріл триватиме кілька днів або доки ви не знищите поселення.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+  <VFESecurity.LetterFactionBaseDefeatedStrike>Ворожу базу {0} знищено.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+  <!-- Psychic pylon -->
+  <VFESecurity.PsychicPylonExposure>Експозиція психічного пілона</VFESecurity.PsychicPylonExposure>
+
+  <!-- Ammo crate -->
+  <VFESecurity.AmmoCrate>Ящик для боєприпасів</VFESecurity.AmmoCrate>
+
+  <!-- Rearmable traps -->
+  <VFESecurity.Armed>Озброєний</VFESecurity.Armed>
+  <VFESecurity.NeedsRearming>Потребує переозброєння</VFESecurity.NeedsRearming>
+  <VFESecurity.DesignatorRearmTraps>Переозброєння</VFESecurity.DesignatorRearmTraps>
+  <VFESecurity.DesignatorRearmTraps_Description>Позначте неозброєні переозброювані пастки, які будуть переозброєні вашими колоністами.</VFESecurity.DesignatorRearmTraps_Description>
+  <VFESecurity.MessageMustDesignateRearmables>Необхідно позначити неозброєні пастки, які можна повторно озброїти.</VFESecurity.MessageMustDesignateRearmables>
+  <VFESecurity.ArtileryHitMessage>Артилерійський снаряд влучив у місце {0}. ({1} знищення).</VFESecurity.ArtileryHitMessage>
+  <VFESecurity.ArtileryDestruction>{0} руйнування від артилерії</VFESecurity.ArtileryDestruction>
+  <VFESecurity.ArtileryHitDestroyedMessage>Артилерійський снаряд знищив місце розташування {0}.</VFESecurity.ArtileryHitDestroyedMessage>
+
+</LanguageData>
