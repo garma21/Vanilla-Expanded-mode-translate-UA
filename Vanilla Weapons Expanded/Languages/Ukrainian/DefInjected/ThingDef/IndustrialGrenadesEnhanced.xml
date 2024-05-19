@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SMOKE GRENADE -->
+
+  <VWE_SmokeGrenade.label>димові шашки</VWE_SmokeGrenade.label>
+  <VWE_SmokeGrenade.description>Старий шкільний конденсований димовий контейнер, який вибухає в димову стіну від удару.</VWE_SmokeGrenade.description>
+  <VWE_SmokeGrenade.verbs.0.label>кинути димову шашку</VWE_SmokeGrenade.verbs.0.label>
+
+  <VWE_Projectile_SmokeGrenade.label>димова шашка</VWE_Projectile_SmokeGrenade.label>
+
+
+  <!-- Flash grenade -->
+
+  <VWE_FlashGrenade.label>світловими гранатами</VWE_FlashGrenade.label>
+  <VWE_FlashGrenade.description>Світлошумна граната. Тимчасово приголомшує органічних ворогів, дозволяючи користувачам скоротити відстань.</VWE_FlashGrenade.description>
+  <VWE_FlashGrenade.verbs.0.label>кинути світловий гранату</VWE_FlashGrenade.verbs.0.label>
+
+  <VWE_Projectile_FlashGrenade.label>світловий граната</VWE_Projectile_FlashGrenade.label>
+
+
+</LanguageData>

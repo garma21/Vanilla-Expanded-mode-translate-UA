@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hammer -->
+
+  <VWE_MeleeWeapon_Hammer.label>молот</VWE_MeleeWeapon_Hammer.label>
+  <VWE_MeleeWeapon_Hammer.description>Молоток - це інструмент, який складається з важкого шматка металу або каменю на кінці ручки. Він використовується, наприклад, щоб вбивати цвяхи в шматок дерева або стіну.\n\nЦей основний винахід ефективний як зброя, але водночас є інструментом. Потрібні деякі м’язи для роботи, але дозволяє конструювати з більшою легкістю.</VWE_MeleeWeapon_Hammer.description>
+  <VWE_MeleeWeapon_Hammer.tools.0.label>handle</VWE_MeleeWeapon_Hammer.tools.0.label>
+  <VWE_MeleeWeapon_Hammer.tools.1.label>head</VWE_MeleeWeapon_Hammer.tools.1.label>
+
+
+  <!-- Battle Axe -->
+
+  <VWE_MeleeWeapon_BattleAxe.label>бойова сокира</VWE_MeleeWeapon_BattleAxe.label>
+  <VWE_MeleeWeapon_BattleAxe.description>Могутня зброя на полі бою в правильних руках. Створена для того, щоб прорізати як плоть, так і кістки.\n\nБойова сокира, яку зазвичай використовують клани Берсерків, — це зброя, яку зазвичай використовували середньовічні лицарі. З потужним розмахом він здатний знищити більшість ворогів з близької відстані.</VWE_MeleeWeapon_BattleAxe.description>
+  <VWE_MeleeWeapon_BattleAxe.tools.0.label>handle</VWE_MeleeWeapon_BattleAxe.tools.0.label>
+  <VWE_MeleeWeapon_BattleAxe.tools.1.label>blade</VWE_MeleeWeapon_BattleAxe.tools.1.label>
+
+
+  <!-- Halberd -->
+
+  <VWE_MeleeWeapon_Halberd.label>алебарда</VWE_MeleeWeapon_Halberd.label>
+  <VWE_MeleeWeapon_Halberd.description>Алебарда — щука, оснащена легким наконечником сокири. Завдяки гострому наконечнику, схожому на спис, це чудовий інструмент проти броньованих ворогів.\n\nВикористовувався для боротьби з воїнами на конях у середньовіччі завдяки своїй надзвичайній довжині.</VWE_MeleeWeapon_Halberd.description>
+  <VWE_MeleeWeapon_Halberd.tools.0.label>handle</VWE_MeleeWeapon_Halberd.tools.0.label>
+  <VWE_MeleeWeapon_Halberd.tools.1.label>blade</VWE_MeleeWeapon_Halberd.tools.1.label>
+  <VWE_MeleeWeapon_Halberd.tools.2.label>point</VWE_MeleeWeapon_Halberd.tools.2.label>
+
+
+</LanguageData>

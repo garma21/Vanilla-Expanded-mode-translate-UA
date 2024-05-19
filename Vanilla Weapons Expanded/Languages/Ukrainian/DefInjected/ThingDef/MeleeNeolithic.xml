@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Axe -->
+
+  <VWE_MeleeWeapon_Axe.label>топірець</VWE_MeleeWeapon_Axe.label>
+  <VWE_MeleeWeapon_Axe.description>На рукояті кріпиться наконечник сокири. Підходить для однієї руки, завдяки формі клина не потребує значного зусилля для розрізання броні та плоті.</VWE_MeleeWeapon_Axe.description>
+  <VWE_MeleeWeapon_Axe.tools.0.label>handle</VWE_MeleeWeapon_Axe.tools.0.label>
+  <VWE_MeleeWeapon_Axe.tools.1.label>blade</VWE_MeleeWeapon_Axe.tools.1.label>
+
+
+</LanguageData>

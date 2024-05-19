@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Automatic Pistol -->
+
+  <VWE_Gun_AutomaticPistol.label>автоматичний пістолет</VWE_Gun_AutomaticPistol.label>
+  <VWE_Gun_AutomaticPistol.description>Удосконалений автоматичний пістолет. Йому не вистачає зупиняючої сили, але його легко малювати. Випускає три патрони.</VWE_Gun_AutomaticPistol.description>
+  <VWE_Gun_AutomaticPistol.tools.0.label>рукоятка</VWE_Gun_AutomaticPistol.tools.0.label>
+  <VWE_Gun_AutomaticPistol.tools.1.label>ствол</VWE_Gun_AutomaticPistol.tools.1.label>
+
+
+  <!-- Bullpup Rifle -->
+
+  <VWE_Gun_BullpupRifle.label>гвинтівка буллпап</VWE_Gun_BullpupRifle.label>
+  <VWE_Gun_BullpupRifle.description>Штурмова гвинтівка з магазином за курком. Він має гарну дальність, пристойну потужність і хорошу точність, а завдяки легкому матеріалу він також швидкий для витягування та стрільби.</VWE_Gun_BullpupRifle.description>
+  <VWE_Gun_BullpupRifle.tools.0.label>stock</VWE_Gun_BullpupRifle.tools.0.label>
+  <VWE_Gun_BullpupRifle.tools.1.label>ствол</VWE_Gun_BullpupRifle.tools.1.label>
+
+
+  <!-- Bullpup DMR -->
+
+  <Bullet_BullpupDMR.label>bullpup DMR куля</Bullet_BullpupDMR.label>
+
+  <VWE_Gun_BullpupDMR.label>Буллпап DMR</VWE_Gun_BullpupDMR.label>
+  <VWE_Gun_BullpupDMR.description>Гвинтівка Bullpup, позначена як стрілецька гвинтівка.\n\nХоча вона схожа на стандартну затворну гвинтівку, вона замінює свою шкоду на два швидкі послідовні постріли. Завдяки легкому матеріалу швидко витягується і стріляється.</VWE_Gun_BullpupDMR.description>
+  <VWE_Gun_BullpupDMR.tools.0.label>stock</VWE_Gun_BullpupDMR.tools.0.label>
+  <VWE_Gun_BullpupDMR.tools.1.label>ствол</VWE_Gun_BullpupDMR.tools.1.label>
+
+
+  <!-- PDW -->
+
+  <VWE_Gun_PDW.label>PDW</VWE_Gun_PDW.label>
+  <VWE_Gun_PDW.description>Компактний, легкий пістолет-кулемет, який використовується як зброя особистого захисту. Швидко витягнути та стріляти.</VWE_Gun_PDW.description>
+  <VWE_Gun_PDW.tools.0.label>grip</VWE_Gun_PDW.tools.0.label>
+  <VWE_Gun_PDW.tools.1.label>ствол</VWE_Gun_PDW.tools.1.label>
+
+
+</LanguageData>

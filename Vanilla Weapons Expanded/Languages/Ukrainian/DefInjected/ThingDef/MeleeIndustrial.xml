@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shovel -->
+
+  <VWE_MeleeWeapon_Shovel.label>лопата</VWE_MeleeWeapon_Shovel.label>
+  <VWE_MeleeWeapon_Shovel.description>Ця невелика переносна лопата, яка зазвичай використовується на полі бою для риття окопів, є чудовою зброєю близької дистанції.</VWE_MeleeWeapon_Shovel.description>
+  <VWE_MeleeWeapon_Shovel.tools.0.label>ручка</VWE_MeleeWeapon_Shovel.tools.0.label>
+  <VWE_MeleeWeapon_Shovel.tools.1.label>голова</VWE_MeleeWeapon_Shovel.tools.1.label>
+
+
+  <!-- Baton -->
+
+  <VWE_MeleeWeapon_Baton.label>кийок</VWE_MeleeWeapon_Baton.label>
+  <VWE_MeleeWeapon_Baton.description>Коротка миротворча палиця, якою зазвичай користуються тюремні охоронці та міліція urbworld.</VWE_MeleeWeapon_Baton.description>
+  <VWE_MeleeWeapon_Baton.tools.0.label>ручка</VWE_MeleeWeapon_Baton.tools.0.label>
+  <VWE_MeleeWeapon_Baton.tools.1.label>голова</VWE_MeleeWeapon_Baton.tools.1.label>
+
+
+  <!-- Combat Knife -->
+
+  <VWE_MeleeWeapon_CombatKnife.label>бойовий ніж</VWE_MeleeWeapon_CombatKnife.label>
+  <VWE_MeleeWeapon_CombatKnife.description>Один із найдавніших промислових предметів людства. Нож мав багато форм, але концепція завжди залишалася незмінною: ручка для утримання та гострий край для різання.\n\nБойовий ніж є стандартною холодною зброєю для більшості військових сил.</VWE_MeleeWeapon_CombatKnife.description>
+  <VWE_MeleeWeapon_CombatKnife.tools.0.label>handle</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.1.label>blade</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+  <VWE_MeleeWeapon_CombatKnife.tools.2.label>point</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Triple Rocket Launcher -->
+
+  <Gun_TripleRocket.label>потрійна ракетна установка</Gun_TripleRocket.label>
+  <Gun_TripleRocket.description>Одноразова ракетна установка, яка запускає групу з трьох великокаліберних вибухових ракет. Хороша проти невеликих груп важких цілей.\n\nЧерез її громіздкість, обмеження одноразового використання та масове руйнування, яке вона спричиняє, кажуть, що потрібно бути трохи божевільним, щоб використовувати цю зброю.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+
+
+  <!-- Doomsday Rocket Launcher -->
+
+  <Gun_DoomsdayRocket.label>ракетна установка судного дня</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.description>Одноразова ракетна установка, яка стріляє потужним вибуховим снарядом. Добре проти великих груп м'яких цілей. Розпалює пожежі.\n\nЧерез його громіздкість, обмеження щодо одноразового використання та величезні руйнування, які він спричиняє, кажуть, що потрібно бути трохи божевільним, щоб використовувати цю зброю.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+
+
+  <!-- Rocket Launcher -->
+
+  <VWE_Gun_RocketLauncher.label>ракетниця</VWE_Gun_RocketLauncher.label>
+  <VWE_Gun_RocketLauncher.description>Стріляє одиночним мінометним снарядом з високою влучністю.</VWE_Gun_RocketLauncher.description>
+  <VWE_Gun_RocketLauncher.tools.0.label>barrel</VWE_Gun_RocketLauncher.tools.0.label>
+
+
+</LanguageData>

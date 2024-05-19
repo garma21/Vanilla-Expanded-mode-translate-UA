@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_Longbow.label>longbow</VWE_Longbow.label>
+  <VWE_Longbow.description>Craft longbows, a neolithic equivalent to the sniper rifle.</VWE_Longbow.description>
+  <VWE_Longbow.generalRules.rulesStrings.0>subject-&gt;precision archery</VWE_Longbow.generalRules.rulesStrings.0>
+  <VWE_Longbow.generalRules.rulesStrings.1>subject_story-&gt;refined the craft of longbow making, maximizing range and accuracy</VWE_Longbow.generalRules.rulesStrings.1>
+  <VWE_Longbow.generalRules.rulesStrings.2>subject_story-&gt;redefined warfare with the introduction of the sniper's bow</VWE_Longbow.generalRules.rulesStrings.2>
+  <VWE_Longbow.generalRules.rulesStrings.3>subject_story-&gt;inspired legends through feats of marksmanship that turned the tide of battles</VWE_Longbow.generalRules.rulesStrings.3>
+  <VWE_Longbow.generalRules.rulesStrings.4>subject_story-&gt;developed techniques that allowed rapid, precise shots over great distances</VWE_Longbow.generalRules.rulesStrings.4>
+  <VWE_Longbow.generalRules.rulesStrings.5>subject_gerund-&gt;enhancing long-range engagements with traditional craftsmanship</VWE_Longbow.generalRules.rulesStrings.5>
+
+  <VWE_Crossbow.label>crossbow</VWE_Crossbow.label>
+  <VWE_Crossbow.description>Construct crossbows, a medieval ranged weapon effective against armored enemies.</VWE_Crossbow.description>
+  <VWE_Crossbow.generalRules.rulesStrings.0>subject-&gt;mechanical advantage</VWE_Crossbow.generalRules.rulesStrings.0>
+  <VWE_Crossbow.generalRules.rulesStrings.1>subject_story-&gt;merged the precision of archery with the power of mechanics</VWE_Crossbow.generalRules.rulesStrings.1>
+  <VWE_Crossbow.generalRules.rulesStrings.2>subject_story-&gt;developed crossbows that pierce the defenses of the armored</VWE_Crossbow.generalRules.rulesStrings.2>
+  <VWE_Crossbow.generalRules.rulesStrings.3>subject_story-&gt;innovated locking mechanisms for quicker reloads under pressure</VWE_Crossbow.generalRules.rulesStrings.3>
+  <VWE_Crossbow.generalRules.rulesStrings.4>subject_story-&gt;integrated advanced sighting systems to improve accuracy</VWE_Crossbow.generalRules.rulesStrings.4>
+  <VWE_Crossbow.generalRules.rulesStrings.5>subject_gerund-&gt;advancing siege warfare with innovation in armament</VWE_Crossbow.generalRules.rulesStrings.5>
+
+  <VWE_CompoundBow.label>compound bow</VWE_CompoundBow.label>
+  <VWE_CompoundBow.description>Construct compound bows, which use industrial-era components to silently fire arrows with greater efficiency.</VWE_CompoundBow.description>
+  <VWE_CompoundBow.generalRules.rulesStrings.0>subject-&gt;silent efficiency</VWE_CompoundBow.generalRules.rulesStrings.0>
+  <VWE_CompoundBow.generalRules.rulesStrings.1>subject_story-&gt;integrated modern technology to craft silent, deadly weapons</VWE_CompoundBow.generalRules.rulesStrings.1>
+  <VWE_CompoundBow.generalRules.rulesStrings.2>subject_story-&gt;pushed the boundaries of archery into the industrial era</VWE_CompoundBow.generalRules.rulesStrings.2>
+  <VWE_CompoundBow.generalRules.rulesStrings.3>subject_story-&gt;employed advanced materials for unmatched bow strength and flexibility</VWE_CompoundBow.generalRules.rulesStrings.3>
+  <VWE_CompoundBow.generalRules.rulesStrings.4>subject_story-&gt;optimized designs for ergonomic use and increased firing rates</VWE_CompoundBow.generalRules.rulesStrings.4>
+  <VWE_CompoundBow.generalRules.rulesStrings.5>subject_gerund-&gt;refining the art of stealth and precision in hunting and warfare</VWE_CompoundBow.generalRules.rulesStrings.5>
+
+  <VWE_Gunpowder.label>gunpowder</VWE_Gunpowder.label>
+  <VWE_Gunpowder.description>Synthesize gunpowder, the earliest known chemical explosive.</VWE_Gunpowder.description>
+  <VWE_Gunpowder.generalRules.rulesStrings.0>subject-&gt;the spark of revolution</VWE_Gunpowder.generalRules.rulesStrings.0>
+  <VWE_Gunpowder.generalRules.rulesStrings.1>subject_story-&gt;unleashed the potential of chemical reactions for explosive results</VWE_Gunpowder.generalRules.rulesStrings.1>
+  <VWE_Gunpowder.generalRules.rulesStrings.2>subject_story-&gt;transformed warfare and mining with the discovery of gunpowder</VWE_Gunpowder.generalRules.rulesStrings.2>
+  <VWE_Gunpowder.generalRules.rulesStrings.3>subject_story-&gt;revolutionized siege tactics with the introduction of cannons</VWE_Gunpowder.generalRules.rulesStrings.3>
+  <VWE_Gunpowder.generalRules.rulesStrings.4>subject_story-&gt;facilitated the creation of small arms, changing personal defense and hunting</VWE_Gunpowder.generalRules.rulesStrings.4>
+  <VWE_Gunpowder.generalRules.rulesStrings.5>subject_gerund-&gt;pioneering the era of explosives and ballistic weaponry</VWE_Gunpowder.generalRules.rulesStrings.5>
+
+  <VWE_TrenchWarfare.label>trench warfare</VWE_TrenchWarfare.label>
+  <VWE_TrenchWarfare.description>Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat.</VWE_TrenchWarfare.description>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.0>subject-&gt;entrenched defense</VWE_TrenchWarfare.generalRules.rulesStrings.0>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.1>subject_story-&gt;adopted age-old strategies to modern combat, ensuring survival</VWE_TrenchWarfare.generalRules.rulesStrings.1>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.2>subject_story-&gt;innovated in close-quarters battle tactics within the trenches</VWE_TrenchWarfare.generalRules.rulesStrings.2>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.3>subject_story-&gt;engineered fortifications that blend with the landscape for surprise attacks</VWE_TrenchWarfare.generalRules.rulesStrings.3>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.4>subject_story-&gt;developed communication lines within trenches to coordinate assaults</VWE_TrenchWarfare.generalRules.rulesStrings.4>
+  <VWE_TrenchWarfare.generalRules.rulesStrings.5>subject_gerund-&gt;fortifying positions with strategic ingenuity in warfare</VWE_TrenchWarfare.generalRules.rulesStrings.5>
+
+  <VWE_HeavyWeapons.label>heavy weapons</VWE_HeavyWeapons.label>
+  <VWE_HeavyWeapons.description>Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding.</VWE_HeavyWeapons.description>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.0>subject-&gt;the weight of power</VWE_HeavyWeapons.generalRules.rulesStrings.0>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.1>subject_story-&gt;developed weapons that bring unparalleled firepower to the battlefield</VWE_HeavyWeapons.generalRules.rulesStrings.1>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.2>subject_story-&gt;balanced the scales of warfare with heavy, decisive armaments</VWE_HeavyWeapons.generalRules.rulesStrings.2>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.3>subject_story-&gt;created training programs for specialized units to operate these weapons</VWE_HeavyWeapons.generalRules.rulesStrings.3>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.4>subject_story-&gt;engineered mobility solutions to transport and deploy heavy armaments</VWE_HeavyWeapons.generalRules.rulesStrings.4>
+  <VWE_HeavyWeapons.generalRules.rulesStrings.5>subject_gerund-&gt;mastering the art of destruction with heavy weapons</VWE_HeavyWeapons.generalRules.rulesStrings.5>
+
+  <VWE_Flamethrower.label>flamethrower</VWE_Flamethrower.label>
+  <VWE_Flamethrower.description>Construct flamethrowers, weapons that project a long, controllable stream of fire. Their lethality has lead to bans on many civilized worlds.</VWE_Flamethrower.description>
+  <VWE_Flamethrower.generalRules.rulesStrings.0>subject-&gt;fiery dominion</VWE_Flamethrower.generalRules.rulesStrings.0>
+  <VWE_Flamethrower.generalRules.rulesStrings.1>subject_story-&gt;harnessed fire in warfare to cleanse and conquer</VWE_Flamethrower.generalRules.rulesStrings.1>
+  <VWE_Flamethrower.generalRules.rulesStrings.2>subject_story-&gt;introduced a weapon feared for its psychological and physical impact</VWE_Flamethrower.generalRules.rulesStrings.2>
+  <VWE_Flamethrower.generalRules.rulesStrings.3>subject_story-&gt;innovated with fuel mixtures for longer range and burn times</VWE_Flamethrower.generalRules.rulesStrings.3>
+  <VWE_Flamethrower.generalRules.rulesStrings.4>subject_story-&gt;developed safety mechanisms to protect the operator from backlash</VWE_Flamethrower.generalRules.rulesStrings.4>
+  <VWE_Flamethrower.generalRules.rulesStrings.5>subject_gerund-&gt;spreading the flames of innovation and terror on the battlefield</VWE_Flamethrower.generalRules.rulesStrings.5>
+
+  <VWE_SpecializedFirearms.label>specialized firearms</VWE_SpecializedFirearms.label>
+  <VWE_SpecializedFirearms.description>Craft specialized guns for demanding combat scenarios.</VWE_SpecializedFirearms.description>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.0>subject-&gt;precision engineering</VWE_SpecializedFirearms.generalRules.rulesStrings.0>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.1>subject_story-&gt;crafted firearms designed for specific, challenging combat scenarios</VWE_SpecializedFirearms.generalRules.rulesStrings.1>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.2>subject_story-&gt;elevated the standards of gunsmithing to meet niche demands</VWE_SpecializedFirearms.generalRules.rulesStrings.2>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.3>subject_story-&gt;integrated cutting-edge optics for enhanced targeting accuracy</VWE_SpecializedFirearms.generalRules.rulesStrings.3>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.4>subject_story-&gt;customized weapons to suit individual user preferences and tactics</VWE_SpecializedFirearms.generalRules.rulesStrings.4>
+  <VWE_SpecializedFirearms.generalRules.rulesStrings.5>subject_gerund-&gt;tailoring firepower to the intricate needs of warfare</VWE_SpecializedFirearms.generalRules.rulesStrings.5>
+
+  <VWE_DesignatedMarksmanRifle.label>marksman rifle</VWE_DesignatedMarksmanRifle.label>
+  <VWE_DesignatedMarksmanRifle.description>Construct semi-automatic marksman rifles, for use in long-distance engagements.</VWE_DesignatedMarksmanRifle.description>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.0>subject-&gt;long-distance overwatch</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.0>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.1>subject_story-&gt;bridged the gap between sniper precision and rifle agility</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.1>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.2>subject_story-&gt;empowered sharpshooters with semi-automatic precision</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.2>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.3>subject_story-&gt;developed stabilization systems for unmatched accuracy on the move</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.3>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.4>subject_story-&gt;adapted rifles for various environments, from urban to wilderness</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.4>
+  <VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.5>subject_gerund-&gt;shaping the future of engagement with marksman rifles</VWE_DesignatedMarksmanRifle.generalRules.rulesStrings.5>
+
+  <VWE_TacticalGrenades.label>tactical grenades</VWE_TacticalGrenades.label>
+  <VWE_TacticalGrenades.description>Craft specialized grenades, useful in a variety of engagements.</VWE_TacticalGrenades.description>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.0>subject-&gt;explosive versatility</VWE_TacticalGrenades.generalRules.rulesStrings.0>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.1>subject_story-&gt;expanded the arsenal with grenades for every combat situation</VWE_TacticalGrenades.generalRules.rulesStrings.1>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.2>subject_story-&gt;innovated with non-lethal options for crowd control and deterrence</VWE_TacticalGrenades.generalRules.rulesStrings.2>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.3>subject_story-&gt;enhanced fuse mechanisms for precise timing and effect</VWE_TacticalGrenades.generalRules.rulesStrings.3>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.4>subject_story-&gt;customized payloads for specific tactical needs</VWE_TacticalGrenades.generalRules.rulesStrings.4>
+  <VWE_TacticalGrenades.generalRules.rulesStrings.5>subject_gerund-&gt;arming troops with the right tools for any engagement</VWE_TacticalGrenades.generalRules.rulesStrings.5>
+
+  <VWE_LaserTargetingSystems.label>laser targeting systems</VWE_LaserTargetingSystems.label>
+  <VWE_LaserTargetingSystems.description>Adapt laser targeting systems for accurate and swift delivery of charged warheads.</VWE_LaserTargetingSystems.description>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.0>subject-&gt;pinpoint accuracy</VWE_LaserTargetingSystems.generalRules.rulesStrings.0>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.1>subject_story-&gt;revolutionized precision strikes with advanced laser guidance</VWE_LaserTargetingSystems.generalRules.rulesStrings.1>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.2>subject_story-&gt;enabled real-time target acquisition and adjustment</VWE_LaserTargetingSystems.generalRules.rulesStrings.2>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.3>subject_story-&gt;integrated systems with existing weaponry for enhanced combat effectiveness</VWE_LaserTargetingSystems.generalRules.rulesStrings.3>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.4>subject_story-&gt;developed compact, portable laser designators for field operations</VWE_LaserTargetingSystems.generalRules.rulesStrings.4>
+  <VWE_LaserTargetingSystems.generalRules.rulesStrings.5>subject_gerund-&gt;honing the edge of warfare with technology</VWE_LaserTargetingSystems.generalRules.rulesStrings.5>
+
+
+</LanguageData>

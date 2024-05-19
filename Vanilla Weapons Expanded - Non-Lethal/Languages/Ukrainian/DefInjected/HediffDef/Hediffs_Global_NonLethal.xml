@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_TearGas.label>сльозогінний газ</VWE_TearGas.label>
+  <VWE_TearGas.description>Сльозогінний газ викликає відчуття печіння в очах і носі, повністю втрачаючи здатність зору жертви.</VWE_TearGas.description>
+  <VWE_TearGas.stages.0.label>зникає</VWE_TearGas.stages.0.label>
+  <VWE_TearGas.stages.1.label>плаксивий</VWE_TearGas.stages.1.label>
+  <VWE_TearGas.stages.2.label>засліплені</VWE_TearGas.stages.2.label>
+
+  <VWE_Anesthetic.label>анестетик</VWE_Anesthetic.label>
+  <VWE_Anesthetic.description>Снодійні препарати в крові. Анестетик втрачає свідомість.</VWE_Anesthetic.description>
+  <VWE_Anesthetic.stages.0.label>зникає</VWE_Anesthetic.stages.0.label>
+  <VWE_Anesthetic.stages.1.label>запаморочення</VWE_Anesthetic.stages.1.label>
+  <VWE_Anesthetic.stages.2.label>заспокійливий</VWE_Anesthetic.stages.2.label>
+  <VWE_Anesthetic.stages.3.label>заспокійливе починає діяти</VWE_Anesthetic.stages.3.label>
+
+
+</LanguageData>

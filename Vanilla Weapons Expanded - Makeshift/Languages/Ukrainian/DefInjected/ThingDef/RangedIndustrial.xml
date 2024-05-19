@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_Gun_MakeshiftPistol.label>саморобний пістолет</VWE_Gun_MakeshiftPistol.label>
+  <VWE_Gun_MakeshiftPistol.description>Імпровізований грубий самозарядний пістолет старовинного зразка з зворотним приводом. Йому бракує гальмівної сили та радіусу дії, і він схильний до заклинювання.</VWE_Gun_MakeshiftPistol.description>
+  <VWE_Gun_MakeshiftPistol.tools.0.label>grip</VWE_Gun_MakeshiftPistol.tools.0.label>
+  <VWE_Gun_MakeshiftPistol.tools.1.label>barrel</VWE_Gun_MakeshiftPistol.tools.1.label>
+
+  <VWE_Bullet_MakeshiftPistol.label>саморобна пістолетна куля</VWE_Bullet_MakeshiftPistol.label>
+
+  <VWE_Gun_MakeshiftSMG.label>імпровізований SMG</VWE_Gun_MakeshiftSMG.label>
+  <VWE_Gun_MakeshiftSMG.description>Маленький саморобний мікро-кулемет. Він має малий радіус дії і дуже схильний до заклинювання через грубу конструкцію та несправні елементи. Його скорострільність, як правило, компенсує його слабкість.</VWE_Gun_MakeshiftSMG.description>
+  <VWE_Gun_MakeshiftSMG.tools.0.label>grip</VWE_Gun_MakeshiftSMG.tools.0.label>
+  <VWE_Gun_MakeshiftSMG.tools.1.label>barrel</VWE_Gun_MakeshiftSMG.tools.1.label>
+
+  <VWE_Bullet_MakeshiftSMG.label>саморобна куля SMG</VWE_Bullet_MakeshiftSMG.label>
+
+  <VWE_Gun_MakeshiftRifle.label>саморобна рушниця</VWE_Gun_MakeshiftRifle.label>
+  <VWE_Gun_MakeshiftRifle.description>Універсальна газова саморобна штурмова гвинтівка, в якій використовуються різні врятовані компоненти, встановлені на ствольній коробці міліцейської рушниці. Він має гарну дальність, пристойну потужність і хорошу точність, але схильний до глушіння.</VWE_Gun_MakeshiftRifle.description>
+  <VWE_Gun_MakeshiftRifle.tools.0.label>stock</VWE_Gun_MakeshiftRifle.tools.0.label>
+  <VWE_Gun_MakeshiftRifle.tools.1.label>barrel</VWE_Gun_MakeshiftRifle.tools.1.label>
+
+  <VWE_Bullet_MakeshiftRifle.label>саморобна гвинтівкова куля</VWE_Bullet_MakeshiftRifle.label>
+
+  <VWE_Gun_MakeshiftShotgun.label>саморобна рушниця</VWE_Gun_MakeshiftShotgun.label>
+  <VWE_Gun_MakeshiftShotgun.description>Імпровізована конструкція потужної рушниці, яка випускає великий залп куль. Смертоносний, але невеликий. Через численні недоліки в конструкції кількість випущених куль змінюється від пострілу до пострілу.</VWE_Gun_MakeshiftShotgun.description>
+  <VWE_Gun_MakeshiftShotgun.tools.0.label>stock</VWE_Gun_MakeshiftShotgun.tools.0.label>
+  <VWE_Gun_MakeshiftShotgun.tools.1.label>barrel</VWE_Gun_MakeshiftShotgun.tools.1.label>
+
+  <VWE_Bullet_MakeshiftShotgun.label>куля для саморобної рушниці</VWE_Bullet_MakeshiftShotgun.label>
+
+  <VWE_Gun_MakeshiftLMG.label>імпровізований LMG</VWE_Gun_MakeshiftLMG.label>
+  <VWE_Gun_MakeshiftLMG.description>Саморобний ручний газовий кулемет. Громіздкий і неточний, він також дуже схильний до заклинювання. Його довгі вогняні черги ефективні проти груп ворогів, але кількість їх пострілів абсолютно випадкова.</VWE_Gun_MakeshiftLMG.description>
+  <VWE_Gun_MakeshiftLMG.tools.0.label>stock</VWE_Gun_MakeshiftLMG.tools.0.label>
+  <VWE_Gun_MakeshiftLMG.tools.1.label>barrel</VWE_Gun_MakeshiftLMG.tools.1.label>
+
+  <VWE_Bullet_MakeshiftLMG.label>саморобна куля LMG</VWE_Bullet_MakeshiftLMG.label>
+
+
+</LanguageData>

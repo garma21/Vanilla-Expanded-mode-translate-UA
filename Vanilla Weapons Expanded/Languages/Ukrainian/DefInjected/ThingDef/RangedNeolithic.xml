@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Throwing Rocks -->
+
+  <VWE_Throwing_Rocks.label>метання каміння</VWE_Throwing_Rocks.label>
+  <VWE_Throwing_Rocks.description>Жменька каменів. Може нанести легкі травми з близької відстані. Не падає після смерті. Простий, але ефективний.</VWE_Throwing_Rocks.description>
+  <VWE_Throwing_Rocks.tools.0.label>edge</VWE_Throwing_Rocks.tools.0.label>
+
+  <VWE_Rock.label>маленький камінь</VWE_Rock.label>
+
+
+  <!-- Long Bow -->
+
+  <VWE_Bow_Long.label>довгий лук</VWE_Bow_Long.label>
+  <VWE_Bow_Long.description>Довгий лук — це масивна далекобійна неолітична зброя, здатна стріляти потужною стрілою на надзвичайно великі відстані.\n\nСтріли, випущені з цього лука, летять над головою, уникаючи перешкод.</VWE_Bow_Long.description>
+  <VWE_Bow_Long.tools.0.label>limb</VWE_Bow_Long.tools.0.label>
+
+  <VWE_Arrow_Long.label>стріла довгого лука</VWE_Arrow_Long.label>
+
+
+</LanguageData>

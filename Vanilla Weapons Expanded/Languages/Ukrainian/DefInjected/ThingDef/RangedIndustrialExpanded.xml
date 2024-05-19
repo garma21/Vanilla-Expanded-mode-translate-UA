@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compound Bow -->
+
+  <VWE_Bow_Compound.label>складний лук</VWE_Bow_Compound.label>
+  <VWE_Bow_Compound.description>Сучасний лук із системою важелів для пострілу стріли на великі відстані.\n\nЗавдяки механізму глушника цей лук не видає помітного звуку під час пострілу, що робить його корисним на полюванні.</VWE_Bow_Compound.description>
+  <VWE_Bow_Compound.tools.0.label>limb</VWE_Bow_Compound.tools.0.label>
+
+  <VWE_Arrow_Compound.label>складна стріла лука</VWE_Arrow_Compound.label>
+
+
+  <!-- Hand Cannon -->
+
+  <VWE_Bullet_HandCannon.label>куля ручної гармати</VWE_Bullet_HandCannon.label>
+
+  <VWE_Gun_HandCannon.label>Ручна гармата</VWE_Gun_HandCannon.label>
+  <VWE_Gun_HandCannon.description>Револьвер повільної стрільби, що стріляє снарядами великого калібру на великі відстані.</VWE_Gun_HandCannon.description>
+  <VWE_Gun_HandCannon.tools.0.label>grip</VWE_Gun_HandCannon.tools.0.label>
+  <VWE_Gun_HandCannon.tools.1.label>barrel</VWE_Gun_HandCannon.tools.1.label>
+
+
+  <!-- Combat Handgun -->
+
+  <VWE_Bullet_CombatHandgun.label>бойова пістолетна куля</VWE_Bullet_CombatHandgun.label>
+
+  <VWE_CombatHandgun.label>бойовий пістолет</VWE_CombatHandgun.label>
+  <VWE_CombatHandgun.description>Напівавтоматичний пістолет призначений для особистого захисту. Удосконалена система противіддачі дозволяє стріляти з цієї зброї значно швидше, ніж зі стандартного автопістолета.</VWE_CombatHandgun.description>
+  <VWE_CombatHandgun.tools.0.label>grip</VWE_CombatHandgun.tools.0.label>
+  <VWE_CombatHandgun.tools.1.label>barrel</VWE_CombatHandgun.tools.1.label>
+
+
+  <!-- Sawed-off Shotgun -->
+
+  <VWE_Bullet_SawedOffShotgun.label>вибух дробовика</VWE_Bullet_SawedOffShotgun.label>
+
+  <VWE_SawedOffShotgun.label>обрізна рушниця</VWE_SawedOffShotgun.label>
+  <VWE_SawedOffShotgun.description>Коротка двостволка. Хоча ця зброя не має такої ж дальності стрільби, як стандартна рушниця, вона стріляє двома стволами у швидкій послідовності.</VWE_SawedOffShotgun.description>
+  <VWE_SawedOffShotgun.tools.0.label>grip</VWE_SawedOffShotgun.tools.0.label>
+  <VWE_SawedOffShotgun.tools.1.label>barrel</VWE_SawedOffShotgun.tools.1.label>
+
+
+  <!-- Grenade Launcher -->
+
+  <VWE_Bullet_GrenadeLauncher.label>осколкові гранати</VWE_Bullet_GrenadeLauncher.label>
+
+  <VWE_Gun_GrenadeLauncher.label>гранатометник</VWE_Gun_GrenadeLauncher.label>
+  <VWE_Gun_GrenadeLauncher.description>Гранатомет військового призначення, призначений для боротьби з піхотою.</VWE_Gun_GrenadeLauncher.description>
+  <VWE_Gun_GrenadeLauncher.tools.0.label>stock</VWE_Gun_GrenadeLauncher.tools.0.label>
+  <VWE_Gun_GrenadeLauncher.tools.1.label>barrel</VWE_Gun_GrenadeLauncher.tools.1.label>
+
+
+  <!-- Flamethrower -->
+
+  <VWE_Gun_Flamethrower.label>вогнемет</VWE_Gun_Flamethrower.label>
+  <VWE_Gun_Flamethrower.description>Механічний запальний пристрій, призначений для випуску керованого потоку палаючого хімічного палива.</VWE_Gun_Flamethrower.description>
+  <VWE_Gun_Flamethrower.tools.0.label>stock</VWE_Gun_Flamethrower.tools.0.label>
+  <VWE_Gun_Flamethrower.tools.1.label>barrel</VWE_Gun_Flamethrower.tools.1.label>
+
+  <VWE_Bullet_Flamethrower.label>вогнеметне паливо</VWE_Bullet_Flamethrower.label>
+
+
+  <!-- Fire Extinguisher -->
+
+  <VWE_Gun_FireExtinguisher.label>вогнегасник</VWE_Gun_FireExtinguisher.label>
+  <VWE_Gun_FireExtinguisher.description>Наповнений багатоцільовим вогнегасником, цей предмет можна використовувати для гасіння будь-якої пожежі, яка виникає в полі.</VWE_Gun_FireExtinguisher.description>
+  <VWE_Gun_FireExtinguisher.tools.0.label>каністра</VWE_Gun_FireExtinguisher.tools.0.label>
+
+  <VWE_Bullet_FireExtinguisher.label>вогнегасник</VWE_Bullet_FireExtinguisher.label>
+
+
+  <!-- Semi-Automatic Rifle -->
+
+  <VWE_Bullet_SemiAutomaticRifle.label>куля напівавтоматичної гвинтівки</VWE_Bullet_SemiAutomaticRifle.label>
+
+  <VWE_Gun_SemiAutomaticRifle.label>напівавтоматична гвинтівка</VWE_Gun_SemiAutomaticRifle.label>
+  <VWE_Gun_SemiAutomaticRifle.description>Напівавтоматична модель стандартної затворної рушниці. Хоча він не такий точний і потужний, як попередник, він компенсує високу швидкість стрільби.</VWE_Gun_SemiAutomaticRifle.description>
+  <VWE_Gun_SemiAutomaticRifle.tools.0.label>stock</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+  <VWE_Gun_SemiAutomaticRifle.tools.1.label>barrel</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+
+
+  <!-- Lever-Action Rifle -->
+
+  <VWE_Bullet_LeverActionRifle.label>рушнична куля важільної дії</VWE_Bullet_LeverActionRifle.label>
+
+  <VWE_Gun_LeverActionRifle.label>рушниця з важільним ходом</VWE_Gun_LeverActionRifle.label>
+  <VWE_Gun_LeverActionRifle.description>Гвинтівка, у якій для заряджання нових патронів використовується важіль, розташований навколо спускової скоби. Незважаючи на те, що ця рушниця не така потужна, як інші гвинтівки, вона дозволяє швидко перезаряджатися.\n\nШироко використовується в західних країнах завдяки можливості стріляти з однієї руки верхи на коні.</VWE_Gun_LeverActionRifle.description>
+  <VWE_Gun_LeverActionRifle.tools.0.label>stock</VWE_Gun_LeverActionRifle.tools.0.label>
+  <VWE_Gun_LeverActionRifle.tools.1.label>barrel</VWE_Gun_LeverActionRifle.tools.1.label>
+
+
+  <!-- Light SMG -->
+
+  <VWE_Bullet_LightSMG.label>легка пістолетна куля SMG</VWE_Bullet_LightSMG.label>
+
+  <VWE_Gun_LightSMG.label>легкий SMG</VWE_Gun_LightSMG.label>
+  <VWE_Gun_LightSMG.description>Легкий пістолет-кулемет із відкритим затвором і покращеним охолодженням, що дозволяє створювати довші черги перед охолодженням зброї.</VWE_Gun_LightSMG.description>
+  <VWE_Gun_LightSMG.tools.0.label>grip</VWE_Gun_LightSMG.tools.0.label>
+  <VWE_Gun_LightSMG.tools.1.label>barrel</VWE_Gun_LightSMG.tools.1.label>
+
+
+  <!-- SMG -->
+
+  <VWE_Bullet_SMG.label>smg куля</VWE_Bullet_SMG.label>
+
+  <VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+  <VWE_Gun_SMG.description>Компактний пістолет-кулемет. Хоча він не має великої дальності вогню, він завдає значної шкоди з близької відстані.</VWE_Gun_SMG.description>
+  <VWE_Gun_SMG.tools.0.label>grip</VWE_Gun_SMG.tools.0.label>
+  <VWE_Gun_SMG.tools.1.label>barrel</VWE_Gun_SMG.tools.1.label>
+
+
+  <!-- HMG -->
+
+  <VWE_Bullet_HMG.label>куля HMG</VWE_Bullet_HMG.label>
+
+  <VWE_Gun_HMG.label>HMG</VWE_Gun_HMG.label>
+  <VWE_Gun_HMG.description>Тип кулемета з водяним охолодженням. Він важкий і громіздкий, але завдає величезної шкоди завдяки бронебійним боєприпасам. Боєприпаси з стрічковою подачею забезпечують безперервний залп куль, поки той, хто їх стріляє, достатньо сильний, щоб утримати рушницю.</VWE_Gun_HMG.description>
+  <VWE_Gun_HMG.tools.0.label>stock</VWE_Gun_HMG.tools.0.label>
+  <VWE_Gun_HMG.tools.1.label>barrel</VWE_Gun_HMG.tools.1.label>
+
+
+  <!-- Service Rifle -->
+
+  <VWE_Bullet_ServiceRifle.label>куля штурмової гвинтівки</VWE_Bullet_ServiceRifle.label>
+
+  <VWE_Gun_ServiceRifle.label>службова гвинтівка</VWE_Gun_ServiceRifle.label>
+  <VWE_Gun_ServiceRifle.description>Універсальна та міцна штурмова гвинтівка, яка широко використовується по всій галактиці збройними силами та найманцями.\n\nНе така потужна, як штурмова гвинтівка, але дає 4 черги.</VWE_Gun_ServiceRifle.description>
+  <VWE_Gun_ServiceRifle.tools.0.label>stock</VWE_Gun_ServiceRifle.tools.0.label>
+  <VWE_Gun_ServiceRifle.tools.1.label>barrel</VWE_Gun_ServiceRifle.tools.1.label>
+
+
+  <!-- Battle Rifle -->
+
+  <VWE_Bullet_BattleRifle.label>куля штурмової гвинтівки</VWE_Bullet_BattleRifle.label>
+
+  <VWE_Gun_BattleRifle.label>бойова рушниця</VWE_Gun_BattleRifle.label>
+  <VWE_Gun_BattleRifle.description>Напівавтоматична гвинтівка, яка зазвичай використовується спецпідрозділами завдяки своїй дальності та точності.\n\nТрохи більша дальність і більша шкода, ніж штурмова гвинтівка, але стріляє лише двома чергами.</VWE_Gun_BattleRifle.description>
+  <VWE_Gun_BattleRifle.tools.0.label>stock</VWE_Gun_BattleRifle.tools.0.label>
+  <VWE_Gun_BattleRifle.tools.1.label>barrel</VWE_Gun_BattleRifle.tools.1.label>
+
+
+  <!-- Carbine -->
+
+  <VWE_Bullet_Carbine.label>карабінна куля</VWE_Bullet_Carbine.label>
+
+  <VWE_Gun_Carbine.label>карабін</VWE_Gun_Carbine.label>
+  <VWE_Gun_Carbine.description>Короткий карабін буллпап, який часто використовується в ближньому міському бою.\n\nХоча він точний на близькій відстані, через короткий приклад він нездатний вести точний вогонь на дистанції.</VWE_Gun_Carbine.description>
+  <VWE_Gun_Carbine.tools.0.label>stock</VWE_Gun_Carbine.tools.0.label>
+  <VWE_Gun_Carbine.tools.1.label>barrel</VWE_Gun_Carbine.tools.1.label>
+
+
+  <!-- Marksman Rifle -->
+
+  <Bullet_MarksmanRifle.label>стрілець гвинтівкова куля</Bullet_MarksmanRifle.label>
+
+  <VWE_Gun_MarksmanRifle.label>стрілецька гвинтівка</VWE_Gun_MarksmanRifle.label>
+  <VWE_Gun_MarksmanRifle.description>Гвинтівка для стрільця.\n\nХоча вона схожа на стандартну затворну гвинтівку, вона замінює свою шкоду на два швидкі постріли.</VWE_Gun_MarksmanRifle.description>
+  <VWE_Gun_MarksmanRifle.tools.0.label>stock</VWE_Gun_MarksmanRifle.tools.0.label>
+  <VWE_Gun_MarksmanRifle.tools.1.label>barrel</VWE_Gun_MarksmanRifle.tools.1.label>
+
+
+  <!-- Anti-Materiel Rifle -->
+
+  <Bullet_AntiMaterialRifle.label>антиматеріальна ударна оболонка</Bullet_AntiMaterialRifle.label>
+
+  <VWE_Gun_AntiMaterialRifle.label>антиматеріальна гвинтівка</VWE_Gun_AntiMaterialRifle.label>
+  <VWE_Gun_AntiMaterialRifle.description>Будучи гвинтівкою калібру .50, ця зброя була розроблена для боротьби з ворожою броньованою технікою.\n\nЦя зброя широко використовується в механоїдних військових зонах, а також корисна проти піхоти, дозволяючи вбити за 1 удар.</VWE_Gun_AntiMaterialRifle.description>
+  <VWE_Gun_AntiMaterialRifle.tools.0.label>stock</VWE_Gun_AntiMaterialRifle.tools.0.label>
+  <VWE_Gun_AntiMaterialRifle.tools.1.label>barrel</VWE_Gun_AntiMaterialRifle.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- VWE_MakeshiftWeapons -->
+
+  <VWE_NonLethal.label>нелетальна зброя</VWE_NonLethal.label>
+  <VWE_NonLethal.description>Створюйте різноманітну несмертельну зброю, включаючи пускові установки сльозогінного газу та електрошокери.</VWE_NonLethal.description>
+  <VWE_NonLethal.generalRules.rulesStrings.0>subject-&gt;мистецтво стриманості</VWE_NonLethal.generalRules.rulesStrings.0>
+  <VWE_NonLethal.generalRules.rulesStrings.1>subject_story-&gt;був піонером у розробці зброї, призначеної для виведення з ладу, а не для вбивства, підкреслюючи цінність життя та етичну участь</VWE_NonLethal.generalRules.rulesStrings.1>
+  <VWE_NonLethal.generalRules.rulesStrings.2>subject_story-&gt;створені інструменти, як-от пускові установки сльозогінного газу та електрошокери, що забезпечують можливості контролю та захисту без летальних наслідків</VWE_NonLethal.generalRules.rulesStrings.2>
+  <VWE_NonLethal.generalRules.rulesStrings.3>subject_gerund-&gt;сприяння вирішенню конфліктів із гуманністю та співчуттям за допомогою нелетальних засобів</VWE_NonLethal.generalRules.rulesStrings.3>
+
+
+</LanguageData>

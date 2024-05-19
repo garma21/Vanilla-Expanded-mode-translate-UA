@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_Shock.label>шок</VWE_Shock.label>
+  <VWE_Shock.deathMessage>{0} був вражений шоком до смерті.</VWE_Shock.deathMessage>
+
+  <VWE_HauntingFlame.label>полум'я</VWE_HauntingFlame.label>
+  <VWE_HauntingFlame.deathMessage>{0} згорів до смерті.</VWE_HauntingFlame.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Damage -->
+
+  <VWENL_TearGas.label>сльозогінний газ</VWENL_TearGas.label>
+  <VWENL_TearGas.deathMessage>{0} було вбито.</VWENL_TearGas.deathMessage>
+
+
+</LanguageData>

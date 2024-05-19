@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- TEAR GAS GRENADE -->
+
+  <VWE_TearGasGrenade.label>гранати зі сльозогінним газом</VWE_TearGasGrenade.label>
+  <VWE_TearGasGrenade.description>Сучасний балончик, що містить спеціальну сполуку, яку зазвичай називають сльозогінним газом. Тимчасово засліплює жертв.</VWE_TearGasGrenade.description>
+  <VWE_TearGasGrenade.verbs.0.label>кинути димову шашку</VWE_TearGasGrenade.verbs.0.label>
+
+  <VWENL_Projectile_TearGasGrenade.label>граната зі сльозогінним газом</VWENL_Projectile_TearGasGrenade.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VWE_Quickdraw.label>швидкий набросок</VWE_Quickdraw.label>
+  <VWE_Quickdraw.description>Створюйте легку зброю, яка швидко тягнеться та стріляє.</VWE_Quickdraw.description>
+  <VWE_Quickdraw.generalRules.rulesStrings.0>subject-&gt;край швидкості</VWE_Quickdraw.generalRules.rulesStrings.0>
+  <VWE_Quickdraw.generalRules.rulesStrings.1>subject_story-&gt;оволодів мистецтвом конструювання зброї для досягнення швидкості, створюючи вогнепальну зброю, яка настільки ж швидка для ураження, як і смертельна</VWE_Quickdraw.generalRules.rulesStrings.1>
+  <VWE_Quickdraw.generalRules.rulesStrings.2>subject_story-&gt;розроблені механізми, які мінімізують час розіграшу, гарантуючи, що готовність і швидка реакція визначають кожну зустріч</VWE_Quickdraw.generalRules.rulesStrings.2>
+  <VWE_Quickdraw.generalRules.rulesStrings.3>subject_gerund-&gt;формування майбутнього бойових дій із ртутною грацією швидкого розгортання</VWE_Quickdraw.generalRules.rulesStrings.3>
+
+
+</LanguageData>

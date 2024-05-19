@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tesla Gun -->
+
+  <VWE_Bullet_Taser.label>електрошокер</VWE_Bullet_Taser.label>
+  <VWE_Bullet_Taser.description>Постріл високовольтного електрошокера.</VWE_Bullet_Taser.description>
+
+  <VWE_Gun_Taser.label>електрошокер</VWE_Gun_Taser.label>
+  <VWE_Gun_Taser.description>Промисловий технологічний електрошокер малої дальності. Він завдає удару електричним струмом, спрямованого на тимчасове порушення функцій м’язів і заподіяння болю, зазвичай не завдаючи значних травм.</VWE_Gun_Taser.description>
+  <VWE_Gun_Taser.verbs.0.label>Стандартний</VWE_Gun_Taser.verbs.0.label>
+  <VWE_Gun_Taser.tools.0.label>barrel</VWE_Gun_Taser.tools.0.label>
+  <VWE_Gun_Taser.tools.1.label>схоплення</VWE_Gun_Taser.tools.1.label>
+
+  <VWE_Gun_RubberBulletPistol.label>non-lethal pistol</VWE_Gun_RubberBulletPistol.label>
+  <VWE_Gun_RubberBulletPistol.description>A modern design of a gas-operated pistol firing rubber pellets. While chances of serious injury are lower, there is still a chance blunt trauma will result in death.</VWE_Gun_RubberBulletPistol.description>
+  <VWE_Gun_RubberBulletPistol.tools.0.label>схоплення</VWE_Gun_RubberBulletPistol.tools.0.label>
+  <VWE_Gun_RubberBulletPistol.tools.1.label>barrel</VWE_Gun_RubberBulletPistol.tools.1.label>
+
+  <VWE_Bullet_RubberPistol.label>гумова куля</VWE_Bullet_RubberPistol.label>
+
+  <VWE_Gun_DartGun.label>дротиковий пістолет</VWE_Gun_DartGun.label>
+  <VWE_Gun_DartGun.description>Несмертельна пневматична зброя, яка використовується для зменшення дратівливості чи збудження у тварин або людей за допомогою анестетиків, які зазвичай називають транквілізаторами.</VWE_Gun_DartGun.description>
+  <VWE_Gun_DartGun.tools.0.label>stock</VWE_Gun_DartGun.tools.0.label>
+  <VWE_Gun_DartGun.tools.1.label>barrel</VWE_Gun_DartGun.tools.1.label>
+
+  <VWE_Bullet_DartGun.label>транквілізатор дротик</VWE_Bullet_DartGun.label>
+
+  <VWE_Gun_TearGasLauncher.label>гранатомет сльозогінного газу</VWE_Gun_TearGasLauncher.label>
+  <VWE_Gun_TearGasLauncher.description>Сучасна односнарядна пускова установка, заряджена балончиками зі сльозогінним газом. Часто використовується спецназом майже в усіх урбосвітах.</VWE_Gun_TearGasLauncher.description>
+  <VWE_Gun_TearGasLauncher.tools.0.label>stock</VWE_Gun_TearGasLauncher.tools.0.label>
+  <VWE_Gun_TearGasLauncher.tools.1.label>barrel</VWE_Gun_TearGasLauncher.tools.1.label>
+
+  <VWE_MeleeWeapon_StunBaton.label>електрошокова палиця</VWE_MeleeWeapon_StunBaton.label>
+  <VWE_MeleeWeapon_StunBaton.description>Короткий миротворчий кийок з електрошоком, який завдає електричного розряду, спрямованого на тимчасове порушення функцій м’язів.</VWE_MeleeWeapon_StunBaton.description>
+  <VWE_MeleeWeapon_StunBaton.tools.0.label>handle</VWE_MeleeWeapon_StunBaton.tools.0.label>
+  <VWE_MeleeWeapon_StunBaton.tools.1.label>head</VWE_MeleeWeapon_StunBaton.tools.1.label>
+
+
+</LanguageData>

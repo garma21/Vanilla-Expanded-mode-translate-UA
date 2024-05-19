@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crossbow -->
+
+  <VWE_Bow_Crossbow.label>арбалет</VWE_Bow_Crossbow.label>
+  <VWE_Bow_Crossbow.description>Арбалет — це різновид зброї дальнього бою, принцип дії якого подібний до лука. Він складається з вузла, схожого на лук, горизонтально встановленого на основній рамі, який тримається в руці так само, як ложа довгої рушниці.\n\nЦя спроба зброї раннє людство могло послати стрілу навіть крізь найміцніший метал.</VWE_Bow_Crossbow.description>
+  <VWE_Bow_Crossbow.tools.0.label>кінцівка</VWE_Bow_Crossbow.tools.0.label>
+
+  <VWE_Arrow_Bolt.label>арбалетний болт</VWE_Arrow_Bolt.label>
+
+
+  <!-- Musket -->
+
+  <VWE_Gun_Musket.label>мушкет</VWE_Gun_Musket.label>
+  <VWE_Gun_Musket.description>Мушкет старовинного зразка. Будучи одним із перших у своєму роді, він має лише малу дальність і низьку скорострільність.</VWE_Gun_Musket.description>
+  <VWE_Gun_Musket.tools.0.label>stock</VWE_Gun_Musket.tools.0.label>
+  <VWE_Gun_Musket.tools.1.label>barrel</VWE_Gun_Musket.tools.1.label>
+
+  <Bullet_Leadball.label>свинцевий м'яч пуля</Bullet_Leadball.label>
+
+
+  <!-- Flintlock -->
+
+  <VWE_Gun_Flintlock.label>кременевий пістолет</VWE_Gun_Flintlock.label>
+  <VWE_Gun_Flintlock.description>Цей пістолет має гладкоствольний ствол і довгу дерев’яну рукоятку, що закінчується наконечником. Як випливає з назви, кремневий пістолет приводиться в дію за допомогою кремневого механізму.</VWE_Gun_Flintlock.description>
+  <VWE_Gun_Flintlock.tools.0.label>stock</VWE_Gun_Flintlock.tools.0.label>
+  <VWE_Gun_Flintlock.tools.1.label>barrel</VWE_Gun_Flintlock.tools.1.label>
+
+
+  <!-- Throwing Knives -->
+
+  <VWE_Throwing_Knives.label>метальні ножі</VWE_Throwing_Knives.label>
+  <VWE_Throwing_Knives.description>Набір добре збалансованих ножів, ідеальних для метання.</VWE_Throwing_Knives.description>
+  <VWE_Throwing_Knives.tools.0.label>handle</VWE_Throwing_Knives.tools.0.label>
+  <VWE_Throwing_Knives.tools.1.label>blade</VWE_Throwing_Knives.tools.1.label>
+  <VWE_Throwing_Knives.tools.2.label>point</VWE_Throwing_Knives.tools.2.label>
+
+  <VWE_FlyingBlade.label>маленький ніж</VWE_FlyingBlade.label>
+
+
+  <!-- Whip -->
+
+  <VWE_Tool_Whip.label>Батіг</VWE_Tool_Whip.label>
+  <VWE_Tool_Whip.description>Традиційне знаряддя, яке використовується для нанесення ударів тваринам, щоб допомогти їм керувати та завоювати слухняність.\n\nМожна використовувати для людей.</VWE_Tool_Whip.description>
+  <VWE_Tool_Whip.tools.0.label>edge</VWE_Tool_Whip.tools.0.label>
+
+  <VWE_WhipSlash.label>whip slash</VWE_WhipSlash.label>
+
+
+</LanguageData>

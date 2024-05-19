@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <napoleonBonaparty.label>Наполеон BonaPARTY</napoleonBonaparty.label>
+  <napoleonBonaparty.description>Крафт 10 Мушкетів</napoleonBonaparty.description>
+
+  <poshRockLobber.label>Шикарний Рок Лоббер</poshRockLobber.label>
+  <poshRockLobber.description>Виготовляйте камені з нефриту</poshRockLobber.description>
+
+  <burnThemAll.label>Спалити їх усіх!</burnThemAll.label>
+  <burnThemAll.description>Зробіть вогнемет</burnThemAll.description>
+
+  <gunsGallore.label>Guns Gallore</gunsGallore.label>
+  <gunsGallore.description>Дослідження спеціалізованої вогнепальної зброї</gunsGallore.description>
+
+  <superCharged.label>Надзаряджений!</superCharged.label>
+  <superCharged.description>Створіть легендарний зарядний мініган</superCharged.description>
+
+
+</LanguageData>
