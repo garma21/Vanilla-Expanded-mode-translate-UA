@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarecrow -->
+
+  <VFE_Scarecrow.label>опудало</VFE_Scarecrow.label>
+  <VFE_Scarecrow.description>Людиноподібна фігура з сіна, одягнена в старий одяг, щоб відлякувати тварин у великому радіусі. Дрібні тварини будуть занадто налякані, щоб наблизитися.</VFE_Scarecrow.description>
+
+
+  <!-- Sprinkler -->
+
+  <VFE_Sprinkler.label>спринклер</VFE_Sprinkler.label>
+  <VFE_Sprinkler.description>Розбризкувач води, що забезпечує водою територію навколо себе. Посилює ріст навколишніх рослин.</VFE_Sprinkler.description>
+  <VFE_Sprinkler_Blueprint.label>спринклер (креслення)</VFE_Sprinkler_Blueprint.label>
+  <VFE_Sprinkler_Blueprint_Install.label>спринклер (креслення)</VFE_Sprinkler_Blueprint_Install.label>
+  <VFE_Sprinkler_Frame.label>спринклер (будівельний)</VFE_Sprinkler_Frame.label>
+  <VFE_Sprinkler_Frame.description>Розбризкувач води, що забезпечує водою територію навколо себе. Посилює ріст навколишніх рослин.</VFE_Sprinkler_Frame.description>
+
+
+</LanguageData>

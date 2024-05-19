@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_WhiskeyHigh.label>під кайфом віскі</VBE_WhiskeyHigh.label>
+  <VBE_WhiskeyHigh.description>Випив трохи віскі. Збільшує глобальну швидкість роботи на 15%.</VBE_WhiskeyHigh.description>
+  <VBE_WhiskeyHigh.labelNoun>під кайфом віскі</VBE_WhiskeyHigh.labelNoun>
+
+  <VBE_DoubleWhiskeyHigh.label>під кайфом подвійного віскі</VBE_DoubleWhiskeyHigh.label>
+  <VBE_DoubleWhiskeyHigh.description>Випив подвійне віскі. Підвищує глобальну швидкість роботи на 20% і торгове ціноутворення на 20%.</VBE_DoubleWhiskeyHigh.description>
+  <VBE_DoubleWhiskeyHigh.labelNoun>під кайфом подвійного віскі</VBE_DoubleWhiskeyHigh.labelNoun>
+
+
+</LanguageData>

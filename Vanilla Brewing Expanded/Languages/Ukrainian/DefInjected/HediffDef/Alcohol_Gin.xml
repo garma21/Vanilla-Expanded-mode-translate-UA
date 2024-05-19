@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_GinHigh.label>під кайфом від джину</VBE_GinHigh.label>
+  <VBE_GinHigh.description>Випив трохи джину. Збільшує соціальний вплив.</VBE_GinHigh.description>
+  <VBE_GinHigh.stages.0.label>підігрітий</VBE_GinHigh.stages.0.label>
+  <VBE_GinHigh.stages.1.label>напідпитку</VBE_GinHigh.stages.1.label>
+  <VBE_GinHigh.stages.2.label>п'яний</VBE_GinHigh.stages.2.label>
+  <VBE_GinHigh.stages.3.label>забитий</VBE_GinHigh.stages.3.label>
+  <VBE_GinHigh.stages.4.label>відключення</VBE_GinHigh.stages.4.label>
+  <VBE_GinHigh.labelNoun>під кайфом від джину</VBE_GinHigh.labelNoun>
+
+
+</LanguageData>

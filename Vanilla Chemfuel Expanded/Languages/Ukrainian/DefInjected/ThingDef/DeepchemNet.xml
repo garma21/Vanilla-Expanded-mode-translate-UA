@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCHE_DeepchemPipe.label>труба глибокого очищення</VCHE_DeepchemPipe.label>
+  <VCHE_DeepchemPipe.description>Важкі сталеві труби для транспортування шламу, відомого як deepchem, від насосних станцій до нафтопереробних заводів або резервуарів deepchem для зберігання.</VCHE_DeepchemPipe.description>
+  <VCHE_DeepchemPipe_Blueprint.label>труба deepchem (креслення)</VCHE_DeepchemPipe_Blueprint.label>
+  <VCHE_DeepchemPipe_Frame.label>труба deepchem (будівля)</VCHE_DeepchemPipe_Frame.label>
+  <VCHE_DeepchemPipe_Frame.description>Важкі сталеві труби для транспортування шламу, відомого як deepchem, від насосних станцій до нафтопереробних заводів або резервуарів deepchem для зберігання.</VCHE_DeepchemPipe_Frame.description>
+
+  <VCHE_UndergroundDeepchemPipe.label>прихована труба глибокого закладення</VCHE_UndergroundDeepchemPipe.label>
+  <VCHE_UndergroundDeepchemPipe.description>Приховані важкі сталеві труби для транспортування шламу, відомого як deepchem, від насосних станцій до нафтопереробних заводів або резервуарів deepchem для зберігання.</VCHE_UndergroundDeepchemPipe.description>
+  <VCHE_UndergroundDeepchemPipe_Blueprint.label>прихована труба глибокого очищення (креслення)</VCHE_UndergroundDeepchemPipe_Blueprint.label>
+  <VCHE_UndergroundDeepchemPipe_Frame.label>прихована труба глибокого очищення (будівля)</VCHE_UndergroundDeepchemPipe_Frame.label>
+  <VCHE_UndergroundDeepchemPipe_Frame.description>Приховані важкі сталеві труби для транспортування шламу, відомого як deepchem, від насосних станцій до нафтопереробних заводів або резервуарів deepchem для зберігання.</VCHE_UndergroundDeepchemPipe_Frame.description>
+
+  <VCHE_DeepchemValve.label>клапан глибокого очищення</VCHE_DeepchemValve.label>
+  <VCHE_DeepchemValve.description>Вмикає/вимикає потік глибокого очищення.</VCHE_DeepchemValve.description>
+  <VCHE_DeepchemValve_Blueprint.label>клапан глибокого очищення (креслення)</VCHE_DeepchemValve_Blueprint.label>
+  <VCHE_DeepchemValve_Frame.label>клапан глибокого очищення (будівельний)</VCHE_DeepchemValve_Frame.label>
+  <VCHE_DeepchemValve_Frame.description>Вмикає/вимикає потік глибокого очищення.</VCHE_DeepchemValve_Frame.description>
+
+  <PS_DeepchemTank.label>резервуар глибокого очищення</PS_DeepchemTank.label>
+  <PS_DeepchemTank.description>Важкий промисловий шламонакопичувач, призначений для зберігання deepchem, що подається через трубопровідну мережу deepchem. Резервуари можуть бути призначені для відкачування за потреби.  У разі навіть легкого пошкодження випаровування, що витікає, дуже швидко створить газову вогняну кулю, розмір вибуху буде залежати від кількості речовини, що зберігається в резервуарі.</PS_DeepchemTank.description>
+
+  <PS_DeepchemRefinery.label>нафтопереробний завод глибокого очищення</PS_DeepchemRefinery.label>
+  <PS_DeepchemRefinery.description>Складна машина, здатна переробляти deepchem, що надходить через труби глибокого очищення, на придатне для використання рідке хімічне паливо. Якщо вихід не виявлено, паливо автоматично розливається в каністри. Якщо вихід з'єднаний з резервуаром або краном по трубах хімпалива, готовий продукт буде транспортуватися як такий для зберігання або роздачі.</PS_DeepchemRefinery.description>
+
+  <VCHE_DeepchemPumpjack.label>насос глибокого очищення</VCHE_DeepchemPumpjack.label>
+  <VCHE_DeepchemPumpjack.description>Бурова установка для глибокого буріння земної кори для видобутку діпхіму з-під поверхні. Використовуйте геодезичний сканер для виявлення покладів. Потім Deepchem можна переробляти на придатне для використання хімічне паливо. Можна вільно переміщати.</VCHE_DeepchemPumpjack.description>
+
+  <VCHE_DeepchemTap.label>deepchem tap</VCHE_DeepchemTap.label>
+  <VCHE_DeepchemTap.description>Бункер для зберігання, призначений для періодичного зберігання дозованого діалхіму з баків для подальшого використання.</VCHE_DeepchemTap.description>
+
+  <VCHE_DeepchemDrain.label>дренаж deepchem</VCHE_DeepchemDrain.label>
+  <VCHE_DeepchemDrain.description>Бункер-накопичувач, призначений для подачі deepchem в мережу, заповнюючи підключені резервуари.</VCHE_DeepchemDrain.description>
+
+
+</LanguageData>

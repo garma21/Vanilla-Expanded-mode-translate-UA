@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox_Tilable.label>нахиляючийся сівалка</VFE_PlanterBox_Tilable.label>
+  <VFE_PlanterBox_Tilable.description>Вирощує рослини в ящику з ґрунтом. Не потребує живлення для роботи.\n\nМоже бути сконструйована в будь-якій бажаній формі.</VFE_PlanterBox_Tilable.description>
+
+  <VFE_Hydroponics_Tilable.label>перекидний басейн для гідропоніки</VFE_Hydroponics_Tilable.label>
+  <VFE_Hydroponics_Tilable.description>Штучна поживна ванна для вирощування рослин. Поживні насоси повинні працювати безперервно; рослини загинуть, якщо відключити живлення.\n\nЦя версія є модульною і може бути зібрана в будь-яку необхідну форму.</VFE_Hydroponics_Tilable.description>
+
+  <VFE_Ecosystem_Tilable.label>регульована штучна екосистема</VFE_Ecosystem_Tilable.label>
+  <VFE_Ecosystem_Tilable.description>Швидко вирощує рослини у штучній, герметичній екосистемі, яку можна налаштувати для ефективного вирощування навіть вибагливих рослин. Потребує великої кількості енергії для роботи; рослини загинуть, якщо живлення буде відключено. Містить вбудовану сонячну лампу для освітлення рослин.\n\nЦя версія є модульною і може бути зібрана в будь-яку необхідну форму.</VFE_Ecosystem_Tilable.description>
+
+
+</LanguageData>

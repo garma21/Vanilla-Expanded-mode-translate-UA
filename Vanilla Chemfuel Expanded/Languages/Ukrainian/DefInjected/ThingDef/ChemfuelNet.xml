@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCHE_ChemfuelPipe.label>хімпаливна труба</VCHE_ChemfuelPipe.label>
+  <VCHE_ChemfuelPipe.description>Сталеві труби, призначені для транспортування придатного для використання хімічного палива від глибокоочисних заводів до резервуарів для зберігання хімічного палива або до споруд, що споживають хімічне паливо, для автоматичного дозаправлення.</VCHE_ChemfuelPipe.description>
+  <VCHE_ChemfuelPipe_Blueprint.label>труба хімпалива (креслення)</VCHE_ChemfuelPipe_Blueprint.label>
+  <VCHE_ChemfuelPipe_Frame.label>хімпаливопровід (будівля)</VCHE_ChemfuelPipe_Frame.label>
+  <VCHE_ChemfuelPipe_Frame.description>Сталеві труби, призначені для транспортування придатного для використання хімічного палива від глибокоочисних заводів до резервуарів для зберігання хімічного палива або до споруд, що споживають хімічне паливо, для автоматичного дозаправлення.</VCHE_ChemfuelPipe_Frame.description>
+
+  <VCHE_UndergroundChemfuelPipe.label>прихована труба хімпалива</VCHE_UndergroundChemfuelPipe.label>
+  <VCHE_UndergroundChemfuelPipe.description>Приховані сталеві труби, призначені для транспортування придатного для використання хімічного палива від глибокоочисних заводів до резервуарів для зберігання хімічного палива або до конструкцій, що споживають хімічне паливо, для автоматичного дозаправлення.</VCHE_UndergroundChemfuelPipe.description>
+  <VCHE_UndergroundChemfuelPipe_Blueprint.label>прихована труба для хімічного палива (креслення)</VCHE_UndergroundChemfuelPipe_Blueprint.label>
+  <VCHE_UndergroundChemfuelPipe_Frame.label>прихована труба для хімічного палива (будівля)</VCHE_UndergroundChemfuelPipe_Frame.label>
+  <VCHE_UndergroundChemfuelPipe_Frame.description>Приховані сталеві труби, призначені для транспортування придатного для використання хімічного палива від глибокоочисних заводів до резервуарів для зберігання хімічного палива або до конструкцій, що споживають хімічне паливо, для автоматичного дозаправлення.</VCHE_UndergroundChemfuelPipe_Frame.description>
+
+  <VCHE_ChemfuelValve.label>хімічний паливний клапан</VCHE_ChemfuelValve.label>
+  <VCHE_ChemfuelValve.description>Вмикає/вимикає подачу хімічного палива.</VCHE_ChemfuelValve.description>
+  <VCHE_ChemfuelValve_Blueprint.label>клапан для хімічного палива (креслення)</VCHE_ChemfuelValve_Blueprint.label>
+  <VCHE_ChemfuelValve_Frame.label>клапан хімічного палива (будівельний)</VCHE_ChemfuelValve_Frame.label>
+  <VCHE_ChemfuelValve_Frame.description>Вмикає/вимикає подачу хімічного палива.</VCHE_ChemfuelValve_Frame.description>
+
+  <PS_ChemfuelTank.label>бак для хімічного палива</PS_ChemfuelTank.label>
+  <PS_ChemfuelTank.description>Промисловий резервуар для зберігання рідини, призначений для зберігання хімічного палива, що постачається через мережу хімічних трубопроводів. Резервуари можуть бути призначені для відкачування придатного для використання хімічного палива в разі потреби.  У разі навіть легкого пошкодження випари, що виходять, дуже швидко створюють газову вогняну кулю, розмір якої залежить від кількості пального, що зберігається в резервуарі.</PS_ChemfuelTank.description>
+
+  <VCHE_ChemfuelTap.label>кран для хімічного палива</VCHE_ChemfuelTap.label>
+  <VCHE_ChemfuelTap.description>Бункерний резервуар, призначений для періодичного зберігання хімічного палива, що видається з цистерн для подальшого використання.</VCHE_ChemfuelTap.description>
+
+  <VCHE_ChemfuelDrain.label>злив хімічного палива</VCHE_ChemfuelDrain.label>
+  <VCHE_ChemfuelDrain.description>Бункер-накопичувач, призначений для подачі хімічного палива в мережу, заповнюючи підключені резервуари.</VCHE_ChemfuelDrain.description>
+
+
+</LanguageData>

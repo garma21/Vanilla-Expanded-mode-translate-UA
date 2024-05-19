@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_DrankSoda.label>пив газовану воду</VBE_DrankSoda.label>
+  <VBE_DrankSoda.description>Вибух цукру потрапляє в кров, забезпечуючи короткочасну енергію. Забезпечує 5% бадьорості для маніпуляцій протягом 5 годин.</VBE_DrankSoda.description>
+
+  <VBE_DrankTea.label>пив чай</VBE_DrankTea.label>
+  <VBE_DrankTea.description>Таніни, що містяться в чаї, після метаболізму підвищують збудливість нервової системи, пригнічуючи бажання спати, а також підвищують імунітет. Збільшує швидкість зміцнення імунітету на 15% і забезпечує 10% зниження швидкості засинання протягом 5 годин.</VBE_DrankTea.description>
+
+  <VBE_TequilaAsIngredient.label>випив коктейль на основі текіли</VBE_TequilaAsIngredient.label>
+  <VBE_TequilaAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була текіла. Дає бонус до шансу приручити тварину на 15%.</VBE_TequilaAsIngredient.description>
+
+  <VBE_WhiskeyAsIngredient.label>випив коктейль на основі віскі</VBE_WhiskeyAsIngredient.label>
+  <VBE_WhiskeyAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого було віскі. Дає бонус до точності стрільби.</VBE_WhiskeyAsIngredient.description>
+
+  <VBE_VodkaAsIngredient.label>випив коктейль на основі горілки</VBE_VodkaAsIngredient.label>
+  <VBE_VodkaAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була горілка. Збільшує шанс ухилення на 20%.</VBE_VodkaAsIngredient.description>
+
+  <VBE_GinAsIngredient.label>випив коктейль на основі джина</VBE_GinAsIngredient.label>
+  <VBE_GinAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого був джин.</VBE_GinAsIngredient.description>
+
+  <VBE_AmbrandyAsIngredient.label>випив коктейль на основі бренді</VBE_AmbrandyAsIngredient.label>
+  <VBE_AmbrandyAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого був бренді.</VBE_AmbrandyAsIngredient.description>
+
+  <VBE_RBMeadAsIngredient.label>випив коктейль на основі медовухи</VBE_RBMeadAsIngredient.label>
+  <VBE_RBMeadAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого була медовуха.</VBE_RBMeadAsIngredient.description>
+
+  <VBE_WineAsIngredient.label>випив коктейль на основі вина</VBE_WineAsIngredient.label>
+  <VBE_WineAsIngredient.description>Цей колоніст випив коктейль, одним з інгредієнтів якого було вино. Ти чудовисько.</VBE_WineAsIngredient.description>
+
+  <VBE_ConsumedLuciferiumPowder.label>спожито порошку люцерни (зі шроту)</VBE_ConsumedLuciferiumPowder.label>
+  <VBE_ConsumedLuciferiumPowder.description>Порошок люциферіуму - це дуже дрібно розтертий порошок, виготовлений з люциферіуму. У такому розведенні препарат, звісно, не загоїть жодної рани, але значно підбадьорить свого споживача.</VBE_ConsumedLuciferiumPowder.description>
+
+  <VBE_ConsumedGoStock.label>спожитий запас го-соку (з їжі)</VBE_ConsumedGoStock.label>
+  <VBE_ConsumedGoStock.description>Запас го-соку - це желатинізований кубик го-соку, який можна перетравлювати, а не вводити. У такому розведеному вигляді препарат не буде блокувати стільки болю, а бойові переваги будуть набагато тоншими.</VBE_ConsumedGoStock.description>
+
+  <VBE_ConsumedWakeupPowder.label>спожито порошку для пробудження (з їжі)</VBE_ConsumedWakeupPowder.label>
+  <VBE_ConsumedWakeupPowder.description>Порошок для пробудження - це подрібнена і порошкоподібна форма пробудження, напрочуд солодка, яку іноді використовують як замінник цукру в десертах або розчиняють у ранковому еспресо. У такому розведеному вигляді препарат не буде таким стимулюючим. Зауважте, що хоча порошок для пробудження не викликає звикання, він все ж несе ризик серцевого нападу(хоч і дуже малий).</VBE_ConsumedWakeupPowder.description>
+
+
+</LanguageData>

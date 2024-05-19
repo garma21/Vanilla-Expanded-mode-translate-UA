@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFE_PlanterBox.label>ящик для розсади</VFE_PlanterBox.label>
+  <VFE_PlanterBox.description>Вирощує рослини в ящику з ґрунтом. Не потребує живлення для роботи.</VFE_PlanterBox.description>
+
+  <VFE_Ecosystem.label>штучна екосистема</VFE_Ecosystem.label>
+  <VFE_Ecosystem.description>Швидко вирощує рослини у штучній, закритій екосистемі. Потребує великої кількості енергії для роботи; рослини загинуть, якщо відключити живлення.\n\nМістить вбудовану сонячну лампу для забезпечення рослин світлом.</VFE_Ecosystem.description>
+
+
+</LanguageData>

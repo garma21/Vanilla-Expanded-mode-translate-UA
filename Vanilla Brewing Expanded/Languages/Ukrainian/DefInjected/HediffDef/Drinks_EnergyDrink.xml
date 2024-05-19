@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_EnergyDrinkHigh.label>енергетичний напій</VBE_EnergyDrinkHigh.label>
+  <VBE_EnergyDrinkHigh.description>Енергетичні напої миттєво відновлюють відпочинок і збільшують швидкість пересування, але ціною пізнішої аварії.</VBE_EnergyDrinkHigh.description>
+  <VBE_EnergyDrinkHigh.labelNoun>енергетичний напій</VBE_EnergyDrinkHigh.labelNoun>
+
+  <VBE_EnergyDrinkCrash.label>негатиний відкладений ефект від енергетиків</VBE_EnergyDrinkCrash.label>
+  <VBE_EnergyDrinkCrash.description>Неприємний відкладений ефект від вживання енергетиків.</VBE_EnergyDrinkCrash.description>
+  <VBE_EnergyDrinkCrash.labelNoun>негатиний відкладений ефект від енергетиків</VBE_EnergyDrinkCrash.labelNoun>
+
+
+</LanguageData>

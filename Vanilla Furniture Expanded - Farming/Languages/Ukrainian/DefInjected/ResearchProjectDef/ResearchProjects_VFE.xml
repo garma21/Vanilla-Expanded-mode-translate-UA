@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Research Projects -->
+
+  <VFE_Res_AdvancedHydroponics.label>штучні екосистеми</VFE_Res_AdvancedHydroponics.label>  <VFE_Res_AdvancedHydroponics.description>Learn to construct artificial ecosystems, highly advanced terraria which vastly improve upon hydroponics.</VFE_Res_AdvancedHydroponics.description>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.0>суб'єкт-&gt;піонерні біосфери</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.0>  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.1>subject_story-&gt;conceived and created self-sustaining environments, mastering the balance of nature and technology</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.1>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.2>subject_story-&gt;відкрили нову еру продовольчої безпеки з екосистемами, які кидають виклик природним обмеженням клімату та географії</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.2>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.3>subject_story- &gt;використали принципи екологічної гармонії, інтегруючи передову гідропоніку з біорізноманітними тераріями</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.3>  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.4>subject_story-&gt;enabled the cultivation of exotic flora and fauna, previously unseen on this scale</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.4>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.5>subject_story-&gt;інновації в замкнутих циклах води та поживних речовин, зменшення відходів та підвищення ефективності</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.5>
+  <VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.6>subject_gerund- &gt;революціонізує сільське господарство зі створенням штучних екосистем</VFE_Res_AdvancedHydroponics.generalRules.rulesStrings.6>
+
+  <VFE_Res_Sprinkler.label>спринклери</VFE_Res_Sprinkler.label>.
+  <VFE_Res_Sprinkler.description>Зберіть схему пристрою, який може автоматично поливати поля, збільшуючи швидкість росту культур.</VFE_Res_Sprinkler.description>  <VFE_Res_Sprinkler.generalRules.rulesStrings.0>subject-&gt;the irrigation evolution</VFE_Res_Sprinkler.generalRules.rulesStrings.0>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.1>subject_story-&gt;розробив автоматизовані системи поливу, що забезпечують оптимальне зволоження культур на величезних полях</VFE_Res_Sprinkler.generalRules.rulesStrings.1>.
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.2>subject_story-&gt;трансформували продуктивність сільського господарства за допомогою точного зрошення, мінімізуючи втрати води</VFE_Res_Sprinkler.generalRules.rulesStrings.2>  <VFE_Res_Sprinkler.generalRules.rulesStrings.3>subject_story-&gt;pioneered the use of sprinklers, marking a leap forward from traditional watering methods</VFE_Res_Sprinkler.generalRules.rulesStrings.3>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.4>subject_story-&gt;дав можливість фермерам контролювати саму суть зростання - воду - поворотом вентиля</VFE_Res_Sprinkler.generalRules.rulesStrings.4>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.5>subject_story-&gt;сприяло створенню зелених пасовищ та отриманню щедрих врожаїв навіть у районах, які колись вважалися безплідними</VFE_Res_Sprinkler.generalRules.rulesStrings.5>
+  <VFE_Res_Sprinkler.generalRules.rulesStrings.6>subject_gerund-&gt;оптимізація росту завдяки простоті та ефективності спринклерів</VFE_Res_Sprinkler.generalRules.rulesStrings.6>
+
+  <VFE_Res_FarmingTechniques.label>технології ведення сільського господарства</VFE_Res_FarmingTechniques.label
+  <VFE_Res_FarmingTechniques.description>Розробіть теоретичну основу для великомасштабних фермерських операцій, включаючи централізовану годівлю та спеціальні опудала, щоб зберегти ваші врожаї нез'їденими.</VFE_Res_FarmingTechniques.description>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.0>предмет-&gt;вирощування достатку</VFE_Res_FarmingTechniques.generalRules.rulesStrings.0>  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.1>subject_story-&gt;rediscovered and refined ancient methods for modern largescale farming operations</VFE_Res_FarmingTechniques.generalRules.rulesStrings.1>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.2>subject_story-&gt;впроваджували централізовані стратегії годівлі, оптимізуючи харчування та врожайність</VFE_Res_FarmingTechniques.generalRules.rulesStrings.2
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.3>subject_story-&gt;виготовляли опудала на основі глибокого розуміння місцевої фауни, ефективно захищаючи посіви</VFE_Res_FarmingTechniques.generalRules.rulesStrings.3>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.4>subject_story- &gt;заклали фундаментальні практики для сталого та ефективного виробництва продуктів харчування</VFE_Res_FarmingTechniques.generalRules.rulesStrings.4>  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.5>subject_story-&gt;inspired a generation of farmers to adopt innovative approaches to agriculture</VFE_Res_FarmingTechniques.generalRules.rulesStrings.5>
+  <VFE_Res_FarmingTechniques.generalRules.rulesStrings.6>subject_gerund- &gt;просування мистецтва і науки землеробства за допомогою передових технологій</VFE_Res_FarmingTechniques.generalRules.rulesStrings.6>
+
+</LanguageData>

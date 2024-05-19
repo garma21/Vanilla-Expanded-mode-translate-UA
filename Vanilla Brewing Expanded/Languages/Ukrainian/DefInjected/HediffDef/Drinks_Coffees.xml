@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VBE_HotCoffeeHigh.label>ефект від кави</VBE_HotCoffeeHigh.label>
+  <VBE_HotCoffeeHigh.description>Кофеїн, що міститься в каві, після метаболізму збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснює розум. Збільшує швидкість навчання на 15% і на 15% зменшує час засинання під час відпочинку. Гаряча кава зменшує ризик переохолодження, а холодна - теплового удару.</VBE_HotCoffeeHigh.description>
+  <VBE_HotCoffeeHigh.labelNoun>a coffee high</VBE_HotCoffeeHigh.labelNoun>
+
+  <VBE_IcedCoffeeHigh.label>ефект від кави з льодом</VBE_IcedCoffeeHigh.label>
+  <VBE_IcedCoffeeHigh.description>Кофеїн, що міститься в каві, після метаболізму збільшує стимули в нервовій системі, пригнічуючи бажання спати, а також прояснює свідомість. Збільшує швидкість навчання на 15% і на 15% знижує швидкість засинання під час відпочинку. Гаряча кава зменшує ризик переохолодження, а холодна - теплового удару.</VBE_IcedCoffeeHigh.description>
+  <VBE_IcedCoffeeHigh.labelNoun>ефект від кави з льодом</VBE_IcedCoffeeHigh.labelNoun>
+
+
+  <!-- Caffeine Addiction -->
+
+  <VBE_CaffeineTolerance.label>толерантність до кофеїну</VBE_CaffeineTolerance.label>
+  <VBE_CaffeineTolerance.description>Сформована толерантність до кофеїну. Чим сильніша ця толерантність, тим більше кофеїну потрібно, щоб отримати той самий ефект.</VBE_CaffeineTolerance.description>
+
+  <VBE_CaffeineAddiction.label>кофеїнова залежність</VBE_CaffeineAddiction.label>
+  <VBE_CaffeineAddiction.description>Хімічна залежність від кофеїну. Тривала присутність кофеїну спричинила неврологічну адаптацію на клітинному рівні, тому мозок більше не може нормально функціонувати без наркотику.
+\Без регулярних доз кофеїну почнеться синдром відміни. Однак тривале утримання змусить мозок адаптуватися до свого нормального стану, усуваючи залежність.</VBE_CaffeineAddiction.description>
+  <VBE_CaffeineAddiction.stages.1.label>виведення</VBE_CaffeineAddiction.stages.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VCHE_ExtractChemfuel>Видобуток 150 хімпалива</VCHE_ExtractChemfuel>
+  <VCHE_ExtractChemfuelDesc>Витягніть з цистерни 150 літрів пального. Пішак прийде забрати його.</VCHE_ExtractChemfuelDesc>
+
+  <VCHE_ExtractDeepchem>Видобуток 150 глибинної хімії</VCHE_ExtractDeepchem>
+  <VCHE_ExtractDeepchemDesc>Витягнути 150 глибинної хімії з танку. Пішка прийде за ним.</VCHE_ExtractDeepchemDesc>
+
+  <VCHE_CantRefine>Не можу очистити: Резервуари переповнені.</VCHE_CantRefine>
+  <VCHE_CantPump>Не можу качати: Резервуари переповнені</VCHE_CantPump>
+
+  <VCHE_CantPlaceHere>Помпу добування глибинної хімії можна встановлювати лише на поклади глибинної хімії. Для пошуку покладів використовуйте ґрунтопроникний сканер.</VCHE_CantPlaceHere>
+
+  <VCHE_ChemValve>Вмикає/вимикає подачу хімічного палива.</VCHE_ChemValve>
+  <VCHE_ChemValveDesc>Вмикає/вимикає потік хімічного палива. Пішак відкриває/закриває клапан.</VCHE_ChemValveDesc>
+
+  <VCHE_DeepChemValve>Вмикає/вимикає потік глибинної хімії.</VCHE_DeepChemValve>
+  <VCHE_DeepChemValveDesc>Вмикає/вимикає потік глибинної хімії. Пішак відкриває/закриває клапан.</VCHE_DeepChemValveDesc>
+
+</LanguageData>
