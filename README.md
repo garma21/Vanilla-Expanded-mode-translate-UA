@@ -4,7 +4,7 @@ Vanilla Expanded Ukrainisation \ переклад модів Vanilla Expanded н
 Це мій аматорський переклад модів Vanilla Expanded,а саме:
 
 - Vanilla Apparel Expanded — Accessories;
-- Vanilla Brewing Expanded;
+- Vanilla Brewing Expanded; 
 - Vanilla Chemfuel Expanded;
 - Vanilla Fishing Expanded;
 - Vanilla Furniture Expanded - Farming;
