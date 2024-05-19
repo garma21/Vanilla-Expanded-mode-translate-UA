@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PH.EnableProxyHeatEffectIndoors>Увімкніть проміжний-тепловий ефект у приміщенні</PH.EnableProxyHeatEffectIndoors>
+  <PH.AllowPlantGrowthInsideProxyHeatEffectRadius>Дозволяє рослинам рости в радіусі дії проміжного теплового ефекту</PH.AllowPlantGrowthInsideProxyHeatEffectRadius>
+  <PH.ProxyHeatBuildings>Налаштування проміжно-теплової будівлі:</PH.ProxyHeatBuildings>
+  <PH.ProxyHeatRadius>Проміжний тепловий радіус</PH.ProxyHeatRadius>
+  <PH.MinTemperature>Мінімальний температурний поріг</PH.MinTemperature>
+  <PH.MaxTemperature>Максимальний температурний поріг</PH.MaxTemperature>
+  <PN.NotSet> (не встановлено)</PN.NotSet>
+  <PH.TemperatureOutput>Температурний вихід</PH.TemperatureOutput>
+  <PH.Search>Шукає: </PH.Search>
+  <PH.BuildingHasTemperatureControl>Будівля має власне регулювання температури</PH.BuildingHasTemperatureControl>
+  <VTE.MustPlaceHeaterWithFreeSpaces>Гаряча сторона нагрівача повинна бути відкритою.</VTE.MustPlaceHeaterWithFreeSpaces>
+  <VTE.MustPlaceUnderRoof>Повинні бути розміщені під дахом.</VTE.MustPlaceUnderRoof>
+  <VTE.CannotPlaceAdjacentCeilingFan>Не можна розміщувати поруч зі стельовими вентиляторами.</VTE.CannotPlaceAdjacentCeilingFan>
+  <VTE.Efficiency>Ефективність мережі</VTE.Efficiency>
+  <VTE.NetworkTargetTemp>Цільова температура мережі</VTE.NetworkTargetTemp>
+  <VTE.Production>Виробництво</VTE.Production>
+  <VTE.Consumption>Споживання</VTE.Consumption>
+  <VTE.TotalProduction>Загальний обсяг виробництва</VTE.TotalProduction>
+  <VTE.TotalConsumption>Загальне споживання</VTE.TotalConsumption>
+  <VTE.Relink>Температура з'єднання</VTE.Relink>
+  <VTE.Unlink>Температура розриву зв'язку</VTE.Unlink>
+  <VTE.AcRelinkDescription>З'єднайте цей кондиціонер з системою, успадкувавши бажану температуру.</VTE.AcRelinkDescription>
+  <VTE.AcUnlinkDescription>Відключіть цей блок кондиціонера від успадкування бажаної температури від системи.</VTE.AcUnlinkDescription>
+  <VTE.MissingCompressors>Не працює: Недостатньо підключених компресорів.</VTE.MissingCompressors>
+  <VTE.MissingController>Не працює: Відсутній блок керування кондиціонером.</VTE.MissingController>
+  <VTE.TooManyControllers>Не працює: Підключено до більш ніж одного блоку керування змінного струму.</VTE.TooManyControllers>
+  <VTE.CompressorCovered>Не працює: Накрито дахом.</VTE.CompressorCovered>
+  <VTE_VentValve>Вмикає/вимикає потік повітря.</VTE_VentValve>
+  <VTE_VentValveDesc>Вмикає/вимикає потік повітря. Пішак відкриває/закриває клапан.</VTE_VentValveDesc>
+
+</LanguageData>

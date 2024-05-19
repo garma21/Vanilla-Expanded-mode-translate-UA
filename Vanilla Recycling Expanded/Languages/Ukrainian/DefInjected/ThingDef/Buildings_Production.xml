@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_RecyclingWorkbench.label>верстак для вторинної переробки</VRecyclingE_RecyclingWorkbench.label>
+  <VRecyclingE_RecyclingWorkbench.description>Робочий стіл для переробки поліетиленових пакетів на інші ресурси. Працює зі швидкістю 50% від швидкості електричного верстата для переробки.</VRecyclingE_RecyclingWorkbench.description>
+
+  <VRecyclingE_ElectricRecyclingWorkbench.label>електричний верстак для переробки відходів</VRecyclingE_ElectricRecyclingWorkbench.label>
+  <VRecyclingE_ElectricRecyclingWorkbench.description>Робочий стіл з автоматизованими сортувальниками та електричними інструментами, що використовуються для переробки поліетиленових пакетів на інші ресурси. Може працювати без електрики зі швидкістю 50% від звичайної.</VRecyclingE_ElectricRecyclingWorkbench.description>
+
+
+  <!-- Spacer -->
+
+  <VRecyclingE_GarbageCompactor.label>ущільнювач для сміття</VRecyclingE_GarbageCompactor.label>
+  <VRecyclingE_GarbageCompactor.description>Індустріальний технологічний пристрій, який пресує сміття за допомогою гідравлічного пресу на сміттєві цеглини. Хоча він не знешкоджує сміття повністю, але дозволяє створити з нього будівельний ресурс. Процес вимагає значної кількості енергії та виділяє токсичні гази під час роботи.</VRecyclingE_GarbageCompactor.description>
+
+  <VRecyclingE_AlloypackSplitter.label>Роздільник пакетів</VRecyclingE_AlloypackSplitter.label>
+  <VRecyclingE_AlloypackSplitter.description>Спейсерний пристрій, який розділяє стабілізовані сплавні пакети на сталь, пластмасу та золоті сполуки. Цей процес займає багато часу і вимагає багато енергії.\n\nВрахуйте, що будівля потребуватиме вільного простору позаду нього для виробництва продукції!ertech device that separates stabilized alloypacks into steel, plasteel and gold compounds. This process takes a long time and requires a lot of power.\n\nConsider that the building will need free space behind it to produce its output!</VRecyclingE_AlloypackSplitter.description>
+
+
+</LanguageData>

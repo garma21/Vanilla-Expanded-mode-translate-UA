@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VSE.Expertise0>Зацікавлені в цьому</VSE.Expertise0>
+  <VSE.Expertise1>Хобіст</VSE.Expertise1>
+  <VSE.Expertise2>Учень-початківець</VSE.Expertise2>
+  <VSE.Expertise3>Учень</VSE.Expertise3>
+  <VSE.Expertise4>Відмінний учень</VSE.Expertise4>
+  <VSE.Expertise5>Слабкий професіонал</VSE.Expertise5>
+  <VSE.Expertise6>Професіонал</VSE.Expertise6>
+  <VSE.Expertise7>Працевлаштований професіонал</VSE.Expertise7>
+  <VSE.Expertise8>Твердий професіонал</VSE.Expertise8>
+  <VSE.Expertise9>Кваліфікований професіонал</VSE.Expertise9>
+  <VSE.Expertise10>Дуже кваліфікований професіонал</VSE.Expertise10>
+  <VSE.Expertise11>Майже експерт</VSE.Expertise11>
+  <VSE.Expertise12>Самопроголошений експерт</VSE.Expertise12>
+  <VSE.Expertise13>Експерт</VSE.Expertise13>
+  <VSE.Expertise14>Сильний експерт</VSE.Expertise14>
+  <VSE.Expertise15>Дуже сильний експерт</VSE.Expertise15>
+  <VSE.Expertise16>Відомий у колонії експерт</VSE.Expertise16>
+  <VSE.Expertise17>Відомий у регіоні експерт</VSE.Expertise17>
+  <VSE.Expertise18>Провідний регіональний експерт</VSE.Expertise18>
+  <VSE.Expertise19>Відомий на планеті експерт</VSE.Expertise19>
+  <VSE.Expertise20>Легендарний експерт</VSE.Expertise20>
+  <VSE.Expertise>Досвід та знання</VSE.Expertise>
+  <VSE.ForgetSpeed>Швидкість забуття</VSE.ForgetSpeed>
+  <VSE.Effects>Ефекти:</VSE.Effects>
+  <VSE.Effects.PerLevel>Ефекти (за рівень):</VSE.Effects.PerLevel>
+  <VSE.ExpertiseAvailable>Колоніст може отримати досвід</VSE.ExpertiseAvailable>
+  <VSE.ExpertiseAvailableMultiple>Колоністи можуть отримати досвід</VSE.ExpertiseAvailableMultiple>
+  <VSE.SelectExpertise>Оберіть досвід</VSE.SelectExpertise>
+  <VSE.ExpertiseDesc>Вибравши досвід, ви відкриєте нове вміння, яке ваша пішак розвине, надаючи йому потужні, але дуже специфічні бонуси.\nВи можете вибрати тільки {0} досвідів, і тільки в уміннях, якими захоплюються ваші пішаки.</VSE.ExpertiseDesc>
+  <VSE.ExpertiseAvailableDesc>Ваш колоніст досяг достатньо високого рівня у вмінні, яким він захоплюється, щоб отримати досвід.\n\nПодумайте про те, щоб вибрати досвід для нього, щоб отримати нові бонуси до типу роботи, який він добре виконує.\n\nКолоністи, які можуть отримати досвід:\n\n</VSE.ExpertiseAvailableDesc>
+  <VSE.LearnsForgets>\n - Вивчає {0}\n - Забуває {1}</VSE.LearnsForgets>
+  <VSE.LearnOther>\n - навчає інших {0}</VSE.LearnOther>
+  <VSE.NoPassion>Ніякої пристрасті</VSE.NoPassion>
+  <VSE.SkillTooLow>Недостатня кваліфікація</VSE.SkillTooLow>
+  <VSE.AtMaxExpertise>З максимальним досвідом</VSE.AtMaxExpertise>
+  <VSE.ExpertiseOverlap>Перетин досвіду</VSE.ExpertiseOverlap>
+  <VSE>Vanilla Skills Expanded</VSE>
+  <VSE.MaxExpertise>Максимальний досвід на одного колоніста:</VSE.MaxExpertise>
+  <VSE.AllowMultiCritical>Дозвольте кілька критичних пристрастей</VSE.AllowMultiCritical>
+  <VSE.AllowMultiCritical.Desc>Якщо це не так, то гарантує, що для кожного пішака буде згенеровано лише одну критичну пристрасть, щоб уникнути їхнього перекриття і марності обох пристрастей.</VSE.AllowMultiCritical.Desc>
+  <VSE.CriticalEffectPassions>Критика впливає на пристрасті</VSE.CriticalEffectPassions>
+  <VSE.CriticalEffectPassions.Desc>Якщо значення false, то дебафф фактору швидкості навчання на інші вміння від Critical не впливатиме на інші вміння, якими захоплюється пішак.</VSE.CriticalEffectPassions.Desc>
+  <VSE.Commonalities>Редагуйте спільні пристрасті, групи відокремлені</VSE.Commonalities>
+  <VSE.Reset>Скидання до налаштувань за замовчуванням</VSE.Reset>
+  <VSE.Bad>Погано:</VSE.Bad>
+  <VSE.Good>Добре:</VSE.Good>
+  <VSE.AllowExpertiseOverlap>Дозвольте перекриття досвіду</VSE.AllowExpertiseOverlap>
+  <VSE.AllowExpertiseOverlap.Desc>Якщо значення хибне, то для кожного вміння можна вибрати лише 1 експертизу, незалежно від максимального значення експертизи.</VSE.AllowExpertiseOverlap.Desc>
+  <VSE.EnableSkillLoss>Увімкнути втрату навичок</VSE.EnableSkillLoss>
+  <VSE.EnableAlert>Увімкнути сповіщення "Доступні знання"</VSE.EnableAlert>
+  <VSE.EnableSkillsLoss.Desc>За замовчуванням, "Божевільні навички качок" вимикає всі втрати навичок. Вибравши цю опцію, цей мод замінить Ducks і знову увімкне його. Використовуйте цю опцію, якщо ви все ще хочете мати можливість користуватися перевагами зміни швидкості забування в нових пристрастях.</VSE.EnableSkillsLoss.Desc>
+
+</LanguageData>

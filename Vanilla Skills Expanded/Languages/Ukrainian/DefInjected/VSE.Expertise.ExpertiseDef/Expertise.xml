@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Precision.label>Спритна стрільба</Precision.label>
+  <Precision.description>Експертиза точності при стрільбі як з високотехнологічної, так і з низькотехнологічної далекобійної зброї.</Precision.description>
+
+  <CloseQuarters.label>Прицілювання</CloseQuarters.label>
+  <CloseQuarters.description>Досвід прицілювання при стрільбі як з високотехнологічної, так і з низькотехнологічної далекобійної зброї.</CloseQuarters.description>
+
+  <Gunner.label>Перезавантаження</Gunner.label>
+  <Gunner.description>Досвід перезаряджання як високотехнологічної, так і низькотехнологічної далекобійної зброї.</Gunner.description>
+
+  <Sharp.label>Piercing</Sharp.label>
+  <Sharp.description>Досвід у бронебійних діях при використанні гострої зброї ближнього бою.</Sharp.description>
+
+  <Blunt.label>Дуель</Blunt.label>
+  <Blunt.description>Досвід ведення швидкого збройного рукопашного бою.</Blunt.description>
+
+  <Tamer.label>Приручення</Tamer.label>
+  <Tamer.description>Досвід приручення диких тварин.</Tamer.description>
+
+  <Rancher.label>Тваринництво</Rancher.label>
+  <Rancher.description>Досвід в ранчо та збиранні тваринницької продукції.</Rancher.description>
+
+  <Hunter.label>Полювання</Hunter.label>
+  <Hunter.description>Досвід в мистецтві полювання.</Hunter.description>
+
+  <Trainer.label>Тренування тварин</Trainer.label>
+  <Trainer.description>Досвід поводження з тваринами в колоніях та їхнього навчання.</Trainer.description>
+
+  <QualityExpert.label>Художня якість</QualityExpert.label>
+  <QualityExpert.description>Експертиза у створенні творів мистецтва підвищеної якості.</QualityExpert.description>
+
+  <QuantityExpert.label>Кількість творів мистецтва</QuantityExpert.label>
+  <QuantityExpert.description>Експертиза у створенні творів мистецтва швидко та ефективно.</QuantityExpert.description>
+
+  <Flooring.label>Підлогове покриття</Flooring.label>
+  <Flooring.description>Досвід в будівництві підлог.</Flooring.description>
+
+  <Repairman.label>Ремонт</Repairman.label>
+  <Repairman.description>Досвід у відновленні зруйнованих та пошкоджених конструкцій.</Repairman.description>
+
+  <Architect.label>AАрхітектураrchitecture</Architect.label>
+  <Architect.description>Досвід у створенні складних і красивих будівель.</Architect.description>
+
+  <Foreman.label>Будівництво</Foreman.label>
+  <Foreman.description>Досвід у швидкому та ефективному будівництві великих об'єктів.</Foreman.description>
+
+  <Butcher.label>Свіжування м'яса</Butcher.label>
+  <Butcher.description>Досвід в обробленні мертвих тварин.</Butcher.description>
+
+  <DrugChef.label>Приготування наркотиків</DrugChef.label>
+  <DrugChef.description>Досвід у створенні наркотиків.</DrugChef.description>
+
+  <TopChef.label>Гігієна харчування</TopChef.label>
+  <TopChef.description>Досвід у створенні безпечних для споживання страв у будь-яких умовах.</TopChef.description>
+
+  <IndustrialChef.label>Годування</IndustrialChef.label>
+  <IndustrialChef.description>Досвід у створенні великої кількості страв, щоб швидко нагодувати багато людей.</IndustrialChef.description>
+
+  <MechanoidExpert.label>Розбирання механоїдів</MechanoidExpert.label>
+  <MechanoidExpert.description>Досвід у всьому, що стосується механоїдів, включаючи їх подрібнення та розбирання.</MechanoidExpert.description>
+
+  <Tailor.label>Пошиття одягу</Tailor.label>
+  <Tailor.description>Досвід у пошитті чудового одягу.</Tailor.description>
+
+  <Weaponsmith.label>Зброярство</Weaponsmith.label>
+  <Weaponsmith.description>Досвід у створенні чудової зброї.</Weaponsmith.description>
+
+  <IndustrialProcessExpert.label>Виготовлення</IndustrialProcessExpert.label>
+  <IndustrialProcessExpert.description>Досвід ефективного виготовлення компонентів.</IndustrialProcessExpert.description>
+
+  <Surgeon.label>Хірургія</Surgeon.label>
+  <Surgeon.description>Досвід проведення безпечних та ефективних операцій.</Surgeon.description>
+
+  <BattlefieldMedic.label>Перша допомога</BattlefieldMedic.label>
+  <BattlefieldMedic.description>Досвід у швидкому лікуванні та швидкості медичної допомоги.</BattlefieldMedic.description>
+
+  <InfectiousDiseaseExpert.label>Догляд за хворими</InfectiousDiseaseExpert.label>
+  <InfectiousDiseaseExpert.description>Досвід догляду за хворими пацієнтами, які страждають на різні захворювання.</InfectiousDiseaseExpert.description>
+
+  <Driller.label>Буріння</Driller.label>
+  <Driller.description>Досвід використання глибокого бура для більш ефективного видобутку корисних копалин.</Driller.description>
+
+  <OreExpert.label>Геологорозвідка</OreExpert.label>
+  <OreExpert.description>Досвід у викопуванні руди та пошуку нових родовищ.</OreExpert.description>
+
+  <Tunneller.label>Тунелювання</Tunneller.label>
+  <Tunneller.description>Досвід копання масивних тунелів і печер.</Tunneller.description>
+
+  <Geologist.label>Геологія</Geologist.label>
+  <Geologist.description>Знання гірських порід та отримання більшої кількості кам'яних шматків під час копання.</Geologist.description>
+
+  <Pharmacologist.label>Синтезування</Pharmacologist.label>
+  <Pharmacologist.description>Досвід в ефективному створенні складних лікарських засобів.</Pharmacologist.description>
+
+  <Hacker.label>Хакерство</Hacker.label>
+  <Hacker.description>Експертиза у зламі терміналів та стародавніх систем.</Hacker.description>
+
+  <Researcher.label>Дослідження</Researcher.label>
+  <Researcher.description>Досвід у дослідженні нових технологій.</Researcher.description>
+
+  <Forager.label>Збиральництво</Forager.label>
+  <Forager.description>Досвід життя на землі та харчування плодами лісу.</Forager.description>
+
+  <Treespeaker.label>Обрізка</Treespeaker.label>
+  <Treespeaker.description>Досвід у спілкуванні з екстрасенсами та обрізанні дерев Гауранлен.</Treespeaker.description>
+
+  <HarvesterCareful.label>Збирання врожаю</HarvesterCareful.label>
+  <HarvesterCareful.description>Досвід у забезпеченні того, щоб жодна частина рослини не була втрачена при збиранні врожаю.</HarvesterCareful.description>
+
+  <GreenThumb.label>Посів</GreenThumb.label>
+  <GreenThumb.description>Досвід швидкого посіву та збирання великої кількості рослин.</GreenThumb.description>
+
+  <Warden.label>Наглядач</Warden.label>
+  <Warden.description>Досвід поводження з полоненими та рабами, їх вербування та арешту в разі потреби.</Warden.description>
+
+  <Negotiator.label>Ведення переговорів</Negotiator.label>
+  <Negotiator.description>Досвід ведення переговорів і торгівлі.</Negotiator.description>
+
+  <Proselytizer.label>Прозелітизм</Proselytizer.label>
+  <Proselytizer.description>Досвід у перетворенні інших на свій власний спосіб мислення.</Proselytizer.description>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_Recycle_WastepackIntoChempack.label>переробляти пакети для сміття на реактивні хімічні пакети</VRecyclingE_Recycle_WastepackIntoChempack.label>
+  <VRecyclingE_Recycle_WastepackIntoChempack.description>Використовуйте ручну працю для переробки токсичних сміттєвих пакетів у реактивні хімічні пакети, створюючи відновлені біопакети як побічний продукт.</VRecyclingE_Recycle_WastepackIntoChempack.description>
+  <VRecyclingE_Recycle_WastepackIntoChempack.jobString>Переробка сміттєвих пакетів на хімпакети.</VRecyclingE_Recycle_WastepackIntoChempack.jobString>
+
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.label>переробляти реактивні хімпакети на хімічне паливо</VRecyclingE_Recycle_ChempackIntoChemfuel.label>
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.description>Використовуйте ручну працю, щоб відокремити життєздатне хімічне паливо від сміття в реактивних хімічних пакетах.</VRecyclingE_Recycle_ChempackIntoChemfuel.description>
+  <VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>Переробка реактивних хімпакетів на хімічне паливо.</VRecyclingE_Recycle_ChempackIntoChemfuel.jobString>
+
+  <VRecyclingE_Recycle_WastepackIntoToxpack.label>переробляти пакети для сміття на леткі токсичні пакети</VRecyclingE_Recycle_WastepackIntoToxpack.label>
+  <VRecyclingE_Recycle_WastepackIntoToxpack.description>Використовуйте ручну працю для переробки токсичних пакетів для сміття на леткі токсичні пакети, створюючи сміття як побічний продукт.</VRecyclingE_Recycle_WastepackIntoToxpack.description>
+  <VRecyclingE_Recycle_WastepackIntoToxpack.jobString>Переробка пакетів для сміття на леткі токсичні пакети.</VRecyclingE_Recycle_WastepackIntoToxpack.jobString>
+
+  <VRecyclingE_Recycle_BreakDownToxpack.label>переробляти леткі токсичні пакети в ізотопні пакети та пакети зі сплавами</VRecyclingE_Recycle_BreakDownToxpack.label>
+  <VRecyclingE_Recycle_BreakDownToxpack.description>Використовуйте ручну працю для переробки летких токсичних пакетів на пакети зі стабілізованими сплавами та радіоактивними ізотопами.</VRecyclingE_Recycle_BreakDownToxpack.description>
+  <VRecyclingE_Recycle_BreakDownToxpack.jobString>Переробка летких токсичних пакетів на ізотопні пакети та пакети зі сплавами.</VRecyclingE_Recycle_BreakDownToxpack.jobString>
+
+  <VRecyclingE_Recycle_IsotopackIntoUranium.label>переробляти радіоактивні ізотопні упаковки на уран</VRecyclingE_Recycle_IsotopackIntoUranium.label>
+  <VRecyclingE_Recycle_IsotopackIntoUranium.description>Використовуйте ручну працю, щоб відокремити життєздатний уран від сміття в радіоактивних ізотопних пакетах.</VRecyclingE_Recycle_IsotopackIntoUranium.description>
+  <VRecyclingE_Recycle_IsotopackIntoUranium.jobString>Переробка радіоактивних ізотопних упаковок на уран.</VRecyclingE_Recycle_IsotopackIntoUranium.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_HaulToCompactor.label>перевезти ресурси до сміттєвого компактора</VRecyclingE_HaulToCompactor.label>
+  <VRecyclingE_HaulToAlloySplitter.label>транспортування ресурси до дробарки для сплавів</VRecyclingE_HaulToAlloySplitter.label>
+
+  <VRecyclingE_DoBillsRecyclingBench.label>виготовлення речей на верстаку для переробки сміття</VRecyclingE_DoBillsRecyclingBench.label>
+  <VRecyclingE_DoBillsRecyclingBench.verb>працювати</VRecyclingE_DoBillsRecyclingBench.verb>
+  <VRecyclingE_DoBillsRecyclingBench.gerund>працювати на</VRecyclingE_DoBillsRecyclingBench.gerund>
+
+
+</LanguageData>

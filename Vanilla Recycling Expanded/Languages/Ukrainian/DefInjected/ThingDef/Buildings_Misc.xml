@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_LargePollutionPump.label>Великий насос для фільтрації</VRecyclingE_LargePollutionPump.label>
+  <VRecyclingE_LargePollutionPump.description>Великий насос для фільтрації ґрунтових вод, який повільно очищає великі ділянки забрудненої місцевості. Витягнуте забруднення формується в токсичні пакети для відходів, які необхідно вивозити.</VRecyclingE_LargePollutionPump.description>
+
+  <VRecyclingE_PollutionFastPump.label>Швидкодіючий насос для фільтрації</VRecyclingE_PollutionFastPump.label>
+  <VRecyclingE_PollutionFastPump.description>Швидкодіючий насос для фільтрації ґрунтових вод, який очищає забруднену місцевість. Витягнуті забруднення формуються в токсичні пакети для відходів, які необхідно вивозити. Для роботи потрібна велика кількість електроенергії, але він працює надзвичайно швидко.</VRecyclingE_PollutionFastPump.description>
+
+  <VRecyclingE_WasteCrate.label>ящик для сміття</VRecyclingE_WasteCrate.label>
+  <VRecyclingE_WasteCrate.description>Герметично закритий контейнер, який запобігає розчиненню токсичних відходів, що зберігаються всередині, та їх витоку в навколишнє середовище. Може вмістити лише обмежену кількість відходів. Не запобігає горінню відходів.</VRecyclingE_WasteCrate.description>
+
+
+</LanguageData>

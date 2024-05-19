@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VPE_TillSoilWorkDeliverBp.label>обробіток ґрунту</VPE_TillSoilWorkDeliverBp.label>
+  <VPE_TillSoilWorkDeliverBp.verb>обробка</VPE_TillSoilWorkDeliverBp.verb>
+  <VPE_TillSoilWorkDeliverBp.gerund>обробітка ґрунту</VPE_TillSoilWorkDeliverBp.gerund>
+
+  <VPE_TillSoilWorkBuild.label>обробіток ґрунту</VPE_TillSoilWorkBuild.label>
+  <VPE_TillSoilWorkBuild.verb>обробка</VPE_TillSoilWorkBuild.verb>
+  <VPE_TillSoilWorkBuild.gerund>tilling</VPE_TillSoilWorkBuild.gerund>
+
+  <VPE_TillSoilWorkDeliverFr.label>обробіток ґрунту</VPE_TillSoilWorkDeliverFr.label>
+  <VPE_TillSoilWorkDeliverFr.verb>обробка</VPE_TillSoilWorkDeliverFr.verb>
+  <VPE_TillSoilWorkDeliverFr.gerund>обробітка ґрунту</VPE_TillSoilWorkDeliverFr.gerund>
+
+
+</LanguageData>

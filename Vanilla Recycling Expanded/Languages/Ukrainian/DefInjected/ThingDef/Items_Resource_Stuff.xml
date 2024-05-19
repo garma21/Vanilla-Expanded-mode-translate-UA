@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_TrashBrick.label>сміттєва цегла</VRecyclingE_TrashBrick.label>
+  <VRecyclingE_TrashBrick.description>Штабель із суцільної цегли, створений шляхом пресування нетоксичного сміття в цегляну форму. Для безпечного транспортування поверхня термозапечатується. Сміттєва цегла - міцний будівельний матеріал для зведення стін і споруд. У разі пошкодження або горіння вони виділяють помірну кількість токсичних випарів і забруднюють навколишнє середовище. Сміттєва цегла не псується.</VRecyclingE_TrashBrick.description>
+  <VRecyclingE_TrashBrick.stuffProps.stuffAdjective>сміттєва цегла</VRecyclingE_TrashBrick.stuffProps.stuffAdjective>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <None.label>немає</None.label>
+  <None.description>без пристрасті</None.description>
+
+  <Minor.label>зацікавлений</Minor.label>
+  <Minor.description>маленька пристрасть</Minor.description>
+
+  <Major.label>палає</Major.label>
+  <Major.description>головна пристрасть</Major.description>
+
+  <VSE_Apathy.label>апатія</VSE_Apathy.label>
+  <VSE_Apathy.description>не зацікавлені в цій навичці</VSE_Apathy.description>
+
+  <VSE_Natural.label>природний</VSE_Natural.label>
+  <VSE_Natural.description>Природно, вони добре володіють цією навичкою. Однак це не означає, що вони не будуть продовжувати практику.</VSE_Natural.description>
+
+  <VSE_Critical.label>критичний</VSE_Critical.label>
+  <VSE_Critical.description>Ця навичка є надзвичайно важливою в певному сенсі, скоріш за все, через події в їхньому минулому.</VSE_Critical.description>
+
+
+</LanguageData>

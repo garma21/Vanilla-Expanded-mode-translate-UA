@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawOnion.label>цибуля</VCE_RawOnion.label>
+  <VCE_RawOnion.description>Їстівна цибулина з гострим, пікантним смаком і запахом, що має майже стільки ж різновидів, скільки і способів застосування в кулінарії.</VCE_RawOnion.description>
+
+  <VCE_RawPumpkin.label>гарбузи</VCE_RawPumpkin.label>
+  <VCE_RawPumpkin.description>Технічно гігантські ягоди, гарбузи відомі тим, що їх дуже легко сіяти та збирати.</VCE_RawPumpkin.description>
+
+  <VCE_RawPepper.label>перець</VCE_RawPepper.label>
+  <VCE_RawPepper.description>Крихітні, гострі, малинові стручки часто використовують у соусах, приправах або порошках. Хоча сам смак м'який, капсаїцин, що міститься в них, викликає у людей дивну залежність, а при масовому споживанні - болючість. Відомо, що тварини уникають їсти рослину повністю.</VCE_RawPepper.description>
+
+  <VCE_RawPeas.label>горох</VCE_RawPeas.label>
+  <VCE_RawPeas.description>Кулясте зелене насіння надійно сховане у м'ясистому стручку. Горох відомий тим, що за умови правильного сушіння може довго зберігатися.</VCE_RawPeas.description>
+
+  <VCE_RawEggplant.label>баклажани</VCE_RawEggplant.label>
+  <VCE_RawEggplant.description>Цибулинний фіолетовий плід родини пасльонових. Баклажани рідко подають як гарнір, зазвичай вони виконують роль основного компонента страви.</VCE_RawEggplant.description>
+
+  <VCE_RawCabbage.label>капуста</VCE_RawCabbage.label>
+  <VCE_RawCabbage.description>Дещо витривалий, листовий зелений овоч, який часто нарізають, а потім ферментують або тушкують.</VCE_RawCabbage.description>
+
+  <VCE_RawBeets.label>буряк</VCE_RawBeets.label>
+  <VCE_RawBeets.description>Трав'янистий овоч, який широко культивується як для людей, так і для худоби, особливо поживний і історично використовувався для виготовлення барвників.</VCE_RawBeets.description>
+
+  <VCE_RawTomatoes.label>помідори</VCE_RawTomatoes.label>
+  <VCE_RawTomatoes.description>Ряд соковитих, глянцевих червоних плодів, прикріплених до виноградної лози, які зазвичай використовуються як овочі. При тривалому тушкуванні вивільняються природні цукри та розм'якшуються кислоти, що містяться всередині.</VCE_RawTomatoes.description>
+
+
+</LanguageData>

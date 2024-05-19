@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+  <VRecyclingE_NotWorking>Наразі ця машина не працює</VRecyclingE_NotWorking>
+  <VRecyclingE_Leaking>Цей реактивний ізотопний пакет випромінює радіацію</VRecyclingE_Leaking>
+  <VRecyclingE_DurationUntilNextProcess>Час до готовності {1} {0_labelPlural} будуть готові</VRecyclingE_DurationUntilNextProcess>
+  <VRecyclingE_ContainedThings>Міститься {0}</VRecyclingE_ContainedThings>
+
+
+
+</LanguageData>

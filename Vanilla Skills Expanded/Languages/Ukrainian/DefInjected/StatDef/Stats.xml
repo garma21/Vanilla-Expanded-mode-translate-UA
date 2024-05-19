@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VSE_ArmorPenetrationFactor.label>коефіцієнт бронепробиття</VSE_ArmorPenetrationFactor.label>
+  <VSE_ArmorPenetrationFactor.description>Множник, що застосовується до бронепробивної здатності атак цього пішака.</VSE_ArmorPenetrationFactor.description>
+
+  <VSE_MeleeCooldownFactor.label>Коефіцієнт перезарядки в ближньому бою</VSE_MeleeCooldownFactor.label>
+  <VSE_MeleeCooldownFactor.description>Множник, що застосовується до уповільнення атак ближнього бою цим пішаком.</VSE_MeleeCooldownFactor.description>
+
+  <VSE_AttackOnFailChanceFactor.label>атака на приручення фактору ймовірності невдач</VSE_AttackOnFailChanceFactor.label>
+  <VSE_AttackOnFailChanceFactor.description>Множник застосовується до шансу, що невдалі спроби приручення призведуть до того, що тварини нападуть на цього пішака.</VSE_AttackOnFailChanceFactor.description>
+
+  <VSE_ArtQuality.label>бонус за художню якість</VSE_ArtQuality.label>
+  <VSE_ArtQuality.description>Бонус до якості мистецтва, створеного цим пішаком.</VSE_ArtQuality.description>
+
+  <VSE_ArtSpeed.label>швидкість створення мистецтва</VSE_ArtSpeed.label>
+  <VSE_ArtSpeed.description>Множник того, як швидко цей пішак створює мистецтво.</VSE_ArtSpeed.description>
+
+  <VSE_RoofSpeed.label>швидкість роботи на даху</VSE_RoofSpeed.label>
+  <VSE_RoofSpeed.description>Як швидко цей пішак може працювати на дахах.</VSE_RoofSpeed.description>
+
+  <VSE_FloorSpeed.label>швидкість обробки підлоги</VSE_FloorSpeed.label>
+  <VSE_FloorSpeed.description>Як швидко цей пішак може працювати на поверхах.</VSE_FloorSpeed.description>
+
+  <VSE_RepairSpeed.label>швидкість ремонту</VSE_RepairSpeed.label>
+  <VSE_RepairSpeed.description>Як швидко цей пішак може зробити ремонт.</VSE_RepairSpeed.description>
+
+  <VSE_ConstructQuality.label>бонус за якість будівництва</VSE_ConstructQuality.label>
+  <VSE_ConstructQuality.description>Бонус, що додається до якості речей, побудованих цим пішаком.</VSE_ConstructQuality.description>
+
+  <VSE_TailoringSpeed.label>швидкість пошиття</VSE_TailoringSpeed.label>
+  <VSE_TailoringSpeed.description>Як швидко цей пішак шиє одяг.</VSE_TailoringSpeed.description>
+
+  <VSE_WeaponCreationSpeed.label>швидкість створення зброї</VSE_WeaponCreationSpeed.label>
+  <VSE_WeaponCreationSpeed.description>Як швидко цей пішак може створювати зброю.</VSE_WeaponCreationSpeed.description>
+
+  <VSE_ComponentCraftingSpeed.label>швидкість створення компонентів</VSE_ComponentCraftingSpeed.label>
+  <VSE_ComponentCraftingSpeed.description>Як швидко цей пішак може створювати компоненти (як промислові, так і просунуті).</VSE_ComponentCraftingSpeed.description>
+
+  <VSE_RockChunkChance.label>шанс на шматок скелі</VSE_RockChunkChance.label>
+  <VSE_RockChunkChance.description>Шанс для цього пішака отримати шматок при видобутку природної породи.</VSE_RockChunkChance.description>
+
+  <VSE_RecruitRate.label>рівень набору персоналу</VSE_RecruitRate.label>
+  <VSE_RecruitRate.description>Як швидко цей пішак зможе завербувати ув'язнених до колонії.</VSE_RecruitRate.description>
+
+  <VSE_PeaceTalksChance.label>шанс на успіх мирних переговорів</VSE_PeaceTalksChance.label>
+  <VSE_PeaceTalksChance.description>Наскільки ймовірним є успіх цього пішака на мирних переговорах.</VSE_PeaceTalksChance.description>
+
+
+</LanguageData>

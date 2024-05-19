@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VCE_RawApple.label>яблука</VCE_RawApple.label>
+  <VCE_RawApple.description>Глянцеві, червоні яблука. Яблука використовували як закуску, десертний інгредієнт і варили з них сидр ще з часів раннього людства.</VCE_RawApple.description>
+
+  <VCE_RawPeach.label>персики</VCE_RawPeach.label>
+  <VCE_RawPeach.description>Їстівний соковитий фрукт, який називають персиком або нектарином. Стиглий персик має запашний аромат, і його дуже смачно їсти свіжим з рук.</VCE_RawPeach.description>
+
+  <VCE_RawCherry.label>вишні</VCE_RawCherry.label>
+  <VCE_RawCherry.description>Маленькі фіолетово-червоні черешні. Вишні відрізняються тим, що їм потрібен короткий період заморозків, тому вони швидко стали фаворитами серед північно-західних культур.</VCE_RawCherry.description>
+
+  <VCE_RawPlum.label>сливи</VCE_RawPlum.label>
+  <VCE_RawPlum.description>Гладкошкірий плід фіолетового кольору. У багатьох культурах для довготривалого зберігання перестиглі сливи сушать на чорнослив. Замість того, щоб гнити, через 15 днів сливи висихають і перетворюються на чорнослив, який вважається консервованою їжею.</VCE_RawPlum.description>
+
+  <VCE_RawPrunes.label>чорнослив</VCE_RawPrunes.label>
+  <VCE_RawPrunes.description>Сушені сливи. Чорнослив дуже довго псується.</VCE_RawPrunes.description>
+
+  <VCE_RawPear.label>груші</VCE_RawPear.label>
+  <VCE_RawPear.description>Хрусткі зелені груші. На перший погляд схожі на яблука, груші трохи більш волокнисті та менш солодкі.</VCE_RawPear.description>
+
+  <VCE_RawPricklyPear.label>опунція</VCE_RawPricklyPear.label>
+  <VCE_RawPricklyPear.description>Рожеві, схожі на диню їстівні плоди, які історично використовувалися місцевими жителями пустелі як для перекусу, так і як ліки.</VCE_RawPricklyPear.description>
+
+  <VCE_Bearberry.label>мучниця</VCE_Bearberry.label>
+  <VCE_Bearberry.description>Це маленькі рожеві ягоди, відомі як мучниця. Хоча сира мучниця має кислуватий і м'який смак, після приготування з'являється природна солодкість, і результат може бути набагато приємнішим.</VCE_Bearberry.description>
+
+  <VCE_RawBanana.label>банани</VCE_RawBanana.label>
+  <VCE_RawBanana.description>Жовті, видовжені ягоди, які легко очищаються від шкірки, відкриваючи солодку, майже кашоподібну м'якоть всередині. Тисячоліттями вони були улюбленими ласощами як людей, так і інших приматів у тропіках.</VCE_RawBanana.description>
+
+  <VCE_RawOrange.label>апельсини</VCE_RawOrange.label>
+  <VCE_RawOrange.description>Сферичні та перфоровані, апельсини, як відомо, дратують шкірку і досить м'які, але відомі як одні з найсоковитіших фруктів з яскравим кисло-солодким присмаком.</VCE_RawOrange.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_BasicRecycling.label>базова переробка</VRecyclingE_BasicRecycling.label>
+  <VRecyclingE_BasicRecycling.description>Дізнайтеся про базову переробку, яка дає можливість переробляти пакети для сміття на різноманітні ресурси.</VRecyclingE_BasicRecycling.description>
+
+  <VRecyclingE_ComplexRecycling.label>комплексна переробка</VRecyclingE_ComplexRecycling.label>
+  <VRecyclingE_ComplexRecycling.description>Навчіться переробляти ізотопні пакети та сплави на нові ресурси та конструювати сміттєві преси для виготовлення сміттєвої цегли.</VRecyclingE_ComplexRecycling.description>
+
+
+</LanguageData>

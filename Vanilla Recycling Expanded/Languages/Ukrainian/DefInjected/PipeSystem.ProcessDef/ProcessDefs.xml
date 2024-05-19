@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VRecyclingE_TrashToBricks.label>Сміття до сміттєблоків</VRecyclingE_TrashToBricks.label>
+  <VRecyclingE_TrashToBricks.description>Перетворює 10 смітників на 25 сміттєвих цеглинок.</VRecyclingE_TrashToBricks.description>
+
+  <VRecyclingE_SplitStabilizedAlloypack.label>Роздільний стабілізований аллопакет</VRecyclingE_SplitStabilizedAlloypack.label>
+  <VRecyclingE_SplitStabilizedAlloypack.description>Перетворює 1 стабілізований аллопак на 1 пластиковий, 1 золотий і 2 сталевих.</VRecyclingE_SplitStabilizedAlloypack.description>
+
+
+</LanguageData>
